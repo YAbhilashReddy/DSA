@@ -2,7 +2,7 @@ class Solution {
 public:
     bool buddyStrings(string s, string goal) {
         if(s.length() != goal.length()) return false;
-        if(s == goal){ // This is speacial case ex:aba
+        if(s == goal){ // This is speacial case ex:s = aba , goal = aba
             set<char> temp(s.begin() , s.end());
             return temp.size() < goal.length();
         }
