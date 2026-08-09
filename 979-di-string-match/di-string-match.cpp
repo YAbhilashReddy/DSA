@@ -3,12 +3,12 @@ public:
     vector<int> diStringMatch(string s) {
         int n = s.length();
         int i=0 , j=n;
-        vector<int> arr;
+        vector<int> arr(n+1);
         for(int x=0 ; x<n ; x++){
-            if(s[x] == 'I') arr.push_back(i++);
-            else arr.push_back(j--);
+            if(s[x] == 'I') arr[x] = i++;
+            else arr[x] = j--;
         }
-        arr.push_back(j);
+        arr[n] = j;
         return arr;
     }
 };
