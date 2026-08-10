@@ -1,0 +1,22 @@
+{
+  "totalSolved": 1,
+  "currentStreak": 1,
+  "maxStreak": 1,
+  "lastSyncDate": "2026-08-10",
+  "todayCount": 1,
+  "difficultyCounts": {
+    "easy": 1,
+    "medium": 0,
+    "hard": 0,
+    "basic": 0
+  },
+  "syncedProblems": {
+    "LeetCode_Count_the_Digits_That_Divide_a_Number": true
+  },
+  "activityHistory": {
+    "2026-08-10": 1
+  },
+  "todayProblems": [
+    "Count the Digits That Divide a Number"
+  ]
+}
