@@ -23,7 +23,7 @@ public:
             }
             if(row.size() != rcount || col.size() != ccount) return false; 
         }
-        for(int startRow = 0 ; startRow<9 ; startRow += 3){
+        for(int startRow = 0 ; startRow < 9 ; startRow += 3){
             for(int startCol = 0 ; startCol < 9 ; startCol += 3){
                 if(!check(startRow , startCol , board)) return false;
             }
