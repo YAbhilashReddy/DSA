@@ -1,0 +1,18 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    int n , M ; cin >> n >> M;
+    n %= 6;
+    int l = 0 , m = 1 , r = 2;
+    for(int i = 1 ; i <= n ; i++){
+        if(i % 2) swap(l , m);
+        else swap(m , r);
+    }
+    int x;
+    if(M == 0) x = l;
+    else if(M == 1) x = m;
+    else x = r;
+    cout << x << endl;
+  return 0;
+}
