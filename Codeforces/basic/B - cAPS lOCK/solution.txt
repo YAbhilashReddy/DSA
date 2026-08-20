@@ -1,0 +1,18 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    string s;cin>>s;
+    bool r = true;
+    for(int i = 1 ; i < s.length() ; i++){
+        if(islower(s[i])) r = false;
+    }
+    if(r){
+        for(char &c : s){
+            if(isupper(c)) c = tolower(c);
+            else c = toupper(c);
+        }
+    }
+    cout << s << endl;
+  return 0;
+}
