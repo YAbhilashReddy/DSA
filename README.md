@@ -5,3 +5,4 @@
 | 3 | [Sliding Window Maximum](./LeetCode/Hard/Sliding%20Window%20Maximum) | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) | Hard | 12 Aug 2026 | 05:06 am |
 | 4 | [474B - Worms](./Codeforces/basic/474B%20-%20Worms) | [Codeforces](https://codeforces.com/problemset/problem/474/B) | basic | 13 Aug 2026 | 11:16 am |
 | 5 | [B - cAPS lOCK](./Codeforces/basic/B%20-%20cAPS%20lOCK) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/711836/problem/B) | basic | 20 Aug 2026 | 07:51 pm |
+| 6 | [A - Between the Offices](./Codeforces/basic/A%20-%20Between%20the%20Offices) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/711836/problem/A) | basic | 20 Aug 2026 | 07:56 pm |
