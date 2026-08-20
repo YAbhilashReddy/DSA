@@ -6,3 +6,4 @@
 | 4 | [474B - Worms](./Codeforces/basic/474B%20-%20Worms) | [Codeforces](https://codeforces.com/problemset/problem/474/B) | basic | 13 Aug 2026 | 11:16 am |
 | 5 | [B - cAPS lOCK](./Codeforces/basic/B%20-%20cAPS%20lOCK) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/711836/problem/B) | basic | 20 Aug 2026 | 07:51 pm |
 | 6 | [A - Between the Offices](./Codeforces/basic/A%20-%20Between%20the%20Offices) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/711836/problem/A) | basic | 20 Aug 2026 | 07:56 pm |
+| 7 | [D - Fafa and his Company](./Codeforces/basic/D%20-%20Fafa%20and%20his%20Company) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/711836/problem/D) | basic | 20 Aug 2026 | 08:33 pm |
