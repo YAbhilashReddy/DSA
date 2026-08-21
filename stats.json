@@ -1,12 +1,12 @@
 {
-  "totalSolved": 8,
-  "currentStreak": 1,
+  "totalSolved": 9,
+  "currentStreak": 2,
   "maxStreak": 2,
-  "lastSyncDate": "2026-08-20",
-  "todayCount": 4,
+  "lastSyncDate": "2026-08-21",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 1,
+    "medium": 2,
     "hard": 1,
     "basic": 5
   },
@@ -18,18 +18,17 @@
     "Codeforces_B_-_cAPS_lOCK": true,
     "Codeforces_A_-_Between_the_Offices": true,
     "Codeforces_D_-_Fafa_and_his_Company": true,
-    "Codeforces_C_-_Shell_Game": true
+    "Codeforces_C_-_Shell_Game": true,
+    "LeetCode_3Sum": true
   },
   "activityHistory": {
     "2026-08-10": 2,
     "2026-08-12": 1,
     "2026-08-13": 1,
-    "2026-08-20": 4
+    "2026-08-20": 4,
+    "2026-08-21": 1
   },
   "todayProblems": [
-    "B - cAPS lOCK",
-    "A - Between the Offices",
-    "D - Fafa and his Company",
-    "C - Shell Game"
+    "3Sum"
   ]
 }
