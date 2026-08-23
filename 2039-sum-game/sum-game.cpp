@@ -1,16 +1,18 @@
 class Solution {
 public:
     bool sumGame(string num) {
-        int n = num.length() , fm = 0 , sm = 0 , FH = 0 , SH = 0;
+        int n = num.length() , leftSum = 0 , rightSum = 0 , leftq = 0 , rightq = 0;
         for(int i = 0 ; i < n ; i++){
-            if(i < n/2) {
-                if(num[i] != '?') FH += num[i] - '0';
-                else fm++;
+            if(i < n / 2){
+                if(num[i] == '?') leftq++;
+                else leftSum += num[i] - '0';
             } else {
-                if(num[i] != '?') SH += num[i] - '0';
-                else sm++;
+                if(num[i] == '?') rightq++;
+                else rightSum += num[i] - '0';
             }
         }
-        return (fm + sm) % 2 != 0 || (FH - SH) * 2 != (sm - fm) * 9;
+        if((leftq + rightq) % 2) return true;
+        return leftSum - rightSum != (rightq - leftq) * 9 / 2; 
+        // max to place is 9 and even number of places / 2
     }
 };
