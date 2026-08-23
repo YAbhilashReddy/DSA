@@ -11,3 +11,4 @@
 | 9 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 21 Aug 2026 | 07:27 am |
 | 10 | [P09 - Phone Numbers](./Codeforces/basic/P09%20-%20Phone%20Numbers) | [Codeforces](https://codeforces.com/group/yg7WhsFsAp/contest/355490/problem/P09) | basic | 23 Aug 2026 | 06:34 am |
 | 11 | [P01 - Reverse an array](./Codeforces/basic/P01%20-%20Reverse%20an%20array) | [Codeforces](https://codeforces.com/group/yg7WhsFsAp/contest/355490/problem/P01) | basic | 23 Aug 2026 | 06:37 am |
+| 12 | [P02 - Candies](./Codeforces/basic/P02%20-%20Candies) | [Codeforces](https://codeforces.com/group/yg7WhsFsAp/contest/355490/problem/P02) | basic | 23 Aug 2026 | 06:47 am |
