@@ -1,0 +1,12 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    int n;cin>>n;
+    string s;cin>>s;
+    int count = 0;
+    for(char c:s) count += (c == '8');
+    if(!count) cout << 0 << endl;
+    else cout << min(n/11 , count) << endl;
+  return 0;
+}
