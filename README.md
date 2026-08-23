@@ -10,3 +10,4 @@
 | 8 | [C - Shell Game](./Codeforces/basic/C%20-%20Shell%20Game) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/711836/problem/C) | basic | 20 Aug 2026 | 08:51 pm |
 | 9 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 21 Aug 2026 | 07:27 am |
 | 10 | [P09 - Phone Numbers](./Codeforces/basic/P09%20-%20Phone%20Numbers) | [Codeforces](https://codeforces.com/group/yg7WhsFsAp/contest/355490/problem/P09) | basic | 23 Aug 2026 | 06:34 am |
+| 11 | [P01 - Reverse an array](./Codeforces/basic/P01%20-%20Reverse%20an%20array) | [Codeforces](https://codeforces.com/group/yg7WhsFsAp/contest/355490/problem/P01) | basic | 23 Aug 2026 | 06:37 am |
