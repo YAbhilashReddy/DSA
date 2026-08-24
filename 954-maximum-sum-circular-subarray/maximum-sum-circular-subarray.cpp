@@ -7,7 +7,7 @@ public:
             maxCurrSum = max(maxCurrSum + i , i) , maxSum = max(maxSum , maxCurrSum);
             minCurrSum = min(minCurrSum + i , i) , minSum = min(minSum , minCurrSum);
         }
-        if(minCurrSum == minSum) return maxSum;
+        if(total == minSum) return maxSum;
         return max(maxSum , total - minSum);
     }
 };
