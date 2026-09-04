@@ -1,14 +1,14 @@
 {
-  "totalSolved": 15,
+  "totalSolved": 16,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-09-04",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
     "medium": 2,
     "hard": 1,
-    "basic": 9
+    "basic": 10
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -25,7 +25,8 @@
     "Codeforces_P02_-_Candies": true,
     "Codeforces_327A_-_Flipping_Game": true,
     "LeetCode_Uncommon_Words_from_Two_Sentences": true,
-    "LeetCode_Smallest_Stable_Index_I": true
+    "LeetCode_Smallest_Stable_Index_I": true,
+    "Codeforces_A_-_Helpful_Maths": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -36,9 +37,10 @@
     "2026-08-23": 3,
     "2026-08-25": 1,
     "2026-08-27": 1,
-    "2026-09-04": 1
+    "2026-09-04": 2
   },
   "todayProblems": [
-    "Smallest Stable Index I"
+    "Smallest Stable Index I",
+    "A - Helpful Maths"
   ]
 }

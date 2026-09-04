@@ -15,3 +15,4 @@
 | 13 | [327A - Flipping Game](./Codeforces/basic/327A%20-%20Flipping%20Game) | [Codeforces](https://codeforces.com/problemset/problem/327/A) | basic | 25 Aug 2026 | 08:00 am |
 | 14 | [Uncommon Words from Two Sentences](./LeetCode/Easy/Uncommon%20Words%20from%20Two%20Sentences) | [LeetCode](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Easy | 27 Aug 2026 | 10:24 am |
 | 15 | [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | 04 Sept 2026 | 06:13 am |
+| 16 | [A - Helpful Maths](./Codeforces/basic/A%20-%20Helpful%20Maths) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/714309/problem/A) | basic | 04 Sept 2026 | 06:12 pm |
