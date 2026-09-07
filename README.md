@@ -17,3 +17,4 @@
 | 15 | [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | 04 Sept 2026 | 06:13 am |
 | 16 | [A - Helpful Maths](./Codeforces/basic/A%20-%20Helpful%20Maths) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/714309/problem/A) | basic | 04 Sept 2026 | 06:12 pm |
 | 17 | [Smallest Stable Index II](./LeetCode/Medium/Smallest%20Stable%20Index%20II) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 05 Sept 2026 | 02:40 pm |
+| 18 | [Check if Any Element Has Prime Frequency](./LeetCode/Easy/Check%20if%20Any%20Element%20Has%20Prime%20Frequency) | [LeetCode](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | Easy | 07 Sept 2026 | 07:05 am |
