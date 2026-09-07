@@ -1,8 +1,7 @@
 class Solution {
 public:
     int minStartValue(vector<int>& nums) {
-        int m = 1;
-        bool r = false;
+        int m = 1 , r = 0;
         while(!r) {
             int n = m , check = 0;
             for(int i:nums) {
@@ -10,7 +9,7 @@ public:
                 if(n < 1) {check = 1 ; break;}
             }
             if(check) m++;
-            else r = true;
+            else r = 1;
         }
         return m;
     }
