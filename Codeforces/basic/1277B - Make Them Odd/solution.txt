@@ -1,0 +1,28 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    int t;cin>>t;
+    while(t--){
+        int n;cin>>n;
+        set<int> st;
+        for(int i=0 ; i<n ; i++){
+            int m;cin>>m;
+            st.insert(m);
+        }
+        int c = 0;
+        while(!st.empty()){
+            auto it = prev(st.end());
+            int x = *it;
+            if(x % 2) st.erase(it);
+            else {
+                st.erase(it);
+                c++;
+                x /= 2;
+                if(!st.count(x)) st.insert(x);
+            }
+        }
+        cout << c << endl;
+    }
+  return 0;
+}
