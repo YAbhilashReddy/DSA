@@ -3,14 +3,16 @@ public:
     string sortSentence(string s) {
         stringstream ss(s);
         string word;
-        map<int,string> freq;
+        vector<string> arr(s.length() , "");
         while(ss >> word){
             int n = word.back() - '0';
             word.erase(word.length()-1 , 1);
-            freq[n] = word;
+            arr[n-1] = word;
         }
         string ans = "";
-        for(auto[k,v]:freq) ans += v + ' ';
+        for(string x:arr) {
+            if(!x.empty()) ans += x + ' ';
+        }
         ans.pop_back();
         return ans;
     }
