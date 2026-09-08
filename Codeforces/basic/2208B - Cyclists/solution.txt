@@ -1,0 +1,77 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t;
+    cin >> t;
+
+    while (t--) {
+        int n, k, p, m;
+        cin >> n >> k >> p >> m;
+
+        vector<int> a(n);
+
+        for (int &x : a) {
+            cin >> x;
+        }
+
+        int win = a[p - 1];
+
+        long long firstCost = win;
+
+        if (p > k) {
+            vector<int> before;
+
+            // Cards before the winning card
+            for (int i = 0; i < p - 1; i++) {
+                before.push_back(a[i]);
+            }
+
+            sort(before.begin(), before.end());
+
+            // Need to move winning card from p to k
+            int need = p - k;
+
+            for (int i = 0; i < need; i++) {
+                firstCost += before[i];
+            }
+        }
+
+        // Cannot even get the first win
+        if (firstCost > m) {
+            cout << 0 << '\n';
+            continue;
+        }
+
+        long long answer = 1;
+        long long remaining = m - firstCost;
+
+        vector<int> others;
+
+        for (int i = 0; i < n; i++) {
+            if (i != p - 1) {
+                others.push_back(a[i]);
+            }
+        }
+
+        sort(others.begin(), others.end());
+
+        long long nextCost = win;
+
+        // After winning card goes to the back,
+        // we need n-k cards to be played before it
+        for (int i = 0; i < n - k; i++) {
+            nextCost += others[i];
+        }
+
+        // Number of additional wins
+        answer += remaining / nextCost;
+
+        cout << answer << '\n';
+    }
+
+    return 0;
+}

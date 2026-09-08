@@ -22,3 +22,4 @@
 | 20 | [632C - The Smallest String Concatenation](./Codeforces/basic/632C%20-%20The%20Smallest%20String%20Concatenation) | [Codeforces](https://codeforces.com/problemset/problem/632/C) | basic | 07 Sept 2026 | 04:00 pm |
 | 21 | [2259B - Minus Two](./Codeforces/basic/2259B%20-%20Minus%20Two) | [Codeforces](https://codeforces.com/problemset/problem/2259/B) | basic | 08 Sept 2026 | 10:14 am |
 | 22 | [1873C - Target Practice](./Codeforces/basic/1873C%20-%20Target%20Practice) | [Codeforces](https://codeforces.com/problemset/problem/1873/C) | basic | 08 Sept 2026 | 10:14 am |
+| 23 | [2208B - Cyclists](./Codeforces/basic/2208B%20-%20Cyclists) | [Codeforces](https://codeforces.com/problemset/problem/2208/B) | basic | 08 Sept 2026 | 10:14 am |
