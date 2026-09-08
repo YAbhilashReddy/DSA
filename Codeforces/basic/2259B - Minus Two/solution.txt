@@ -1,0 +1,42 @@
+#include<iostream>
+#include<vector>;
+#include<queue>
+#include<map>
+#include<set>
+#include<numeric>
+using namespace std;
+void solve()
+{
+int N;
+cin>>N;
+vector<int> arr(N);
+int odd=0,eveod=0,even=0;
+for(int i=0;i<N;i++)
+{
+	cin>>arr[i];
+	if(arr[i]%2==0)
+	{
+		if((arr[i]/2)%2==0)
+		{
+			even++;
+		}
+		else{
+			eveod++;
+		}
+	}
+	else{
+		odd++;
+	}
+}
+	cout<<max(odd,max(even,eveod))<<endl;
+}
+int main()
+{
+	int testcase;
+	cin>>testcase;
+	while(testcase--)
+	{
+    void solve();
+    solve();
+}
+}

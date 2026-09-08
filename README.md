@@ -20,3 +20,4 @@
 | 18 | [Check if Any Element Has Prime Frequency](./LeetCode/Easy/Check%20if%20Any%20Element%20Has%20Prime%20Frequency) | [LeetCode](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | Easy | 07 Sept 2026 | 07:05 am |
 | 19 | [1277B - Make Them Odd](./Codeforces/basic/1277B%20-%20Make%20Them%20Odd) | [Codeforces](https://codeforces.com/problemset/problem/1277/B) | basic | 07 Sept 2026 | 07:55 am |
 | 20 | [632C - The Smallest String Concatenation](./Codeforces/basic/632C%20-%20The%20Smallest%20String%20Concatenation) | [Codeforces](https://codeforces.com/problemset/problem/632/C) | basic | 07 Sept 2026 | 04:00 pm |
+| 21 | [2259B - Minus Two](./Codeforces/basic/2259B%20-%20Minus%20Two) | [Codeforces](https://codeforces.com/problemset/problem/2259/B) | basic | 08 Sept 2026 | 10:14 am |
