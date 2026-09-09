@@ -1,0 +1,22 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    string a,b;cin>>a>>b;
+    long long n = stoi(a) + stoi(b);
+    string X = to_string(n) , s = "";
+    for(char c:X){
+        if(c != '0') s.push_back(c);
+    }
+    int sol1 = stoll(s);
+    string A = "" , B = "";
+    for(char c:a) {
+        if(c != '0') A.push_back(c);
+    }
+    for(char c:b){
+        if(c != '0') B.push_back(c);
+    }
+    long long sol2 = stoi(A) + stoi(B);
+    cout << (sol1 == sol2 ? "YES" : "NO") << endl;
+  return 0; 
+}

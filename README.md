@@ -25,3 +25,4 @@
 | 23 | [2208B - Cyclists](./Codeforces/basic/2208B%20-%20Cyclists) | [Codeforces](https://codeforces.com/problemset/problem/2208/B) | basic | 08 Sept 2026 | 10:14 am |
 | 24 | [1900A - Cover in Water](./Codeforces/basic/1900A%20-%20Cover%20in%20Water) | [Codeforces](https://codeforces.com/problemset/problem/1900/A) | basic | 08 Sept 2026 | 10:14 am |
 | 25 | [Sort Array by Increasing Frequency](./LeetCode/Easy/Sort%20Array%20by%20Increasing%20Frequency) | [LeetCode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | Easy | 09 Sept 2026 | 06:33 am |
+| 26 | [75A - Life Without Zeros](./Codeforces/basic/75A%20-%20Life%20Without%20Zeros) | [Codeforces](https://codeforces.com/problemset/problem/75/A) | basic | 09 Sept 2026 | 02:14 pm |

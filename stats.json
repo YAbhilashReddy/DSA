@@ -1,14 +1,14 @@
 {
-  "totalSolved": 25,
+  "totalSolved": 26,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-09-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 5,
     "medium": 3,
     "hard": 1,
-    "basic": 16
+    "basic": 17
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -35,7 +35,8 @@
     "Codeforces_1873C_-_Target_Practice": true,
     "Codeforces_2208B_-_Cyclists": true,
     "Codeforces_1900A_-_Cover_in_Water": true,
-    "LeetCode_Sort_Array_by_Increasing_Frequency": true
+    "LeetCode_Sort_Array_by_Increasing_Frequency": true,
+    "Codeforces_75A_-_Life_Without_Zeros": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -50,9 +51,10 @@
     "2026-09-05": 1,
     "2026-09-07": 3,
     "2026-09-08": 4,
-    "2026-09-09": 1
+    "2026-09-09": 2
   },
   "todayProblems": [
-    "Sort Array by Increasing Frequency"
+    "Sort Array by Increasing Frequency",
+    "75A - Life Without Zeros"
   ]
 }
