@@ -1,12 +1,12 @@
 {
-  "totalSolved": 28,
+  "totalSolved": 29,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-09-11",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 3,
+    "medium": 4,
     "hard": 1,
     "basic": 19
   },
@@ -38,7 +38,8 @@
     "LeetCode_Sort_Array_by_Increasing_Frequency": true,
     "Codeforces_75A_-_Life_Without_Zeros": true,
     "Codeforces_A_-_Halloumi_Boxes": true,
-    "Codeforces_1551B1_-_Wonderful_Coloring_-_1": true
+    "Codeforces_1551B1_-_Wonderful_Coloring_-_1": true,
+    "LeetCode_Count_Ways_to_Group_Overlapping_Ranges": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -55,9 +56,10 @@
     "2026-09-08": 4,
     "2026-09-09": 2,
     "2026-09-10": 1,
-    "2026-09-11": 1
+    "2026-09-11": 2
   },
   "todayProblems": [
-    "1551B1 - Wonderful Coloring - 1"
+    "1551B1 - Wonderful Coloring - 1",
+    "Count Ways to Group Overlapping Ranges"
   ]
 }
