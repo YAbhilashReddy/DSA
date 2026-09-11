@@ -29,3 +29,4 @@
 | 27 | [A - Halloumi Boxes](./Codeforces/basic/A%20-%20Halloumi%20Boxes) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/715592/problem/A) | basic | 10 Sept 2026 | 06:11 pm |
 | 28 | [1551B1 - Wonderful Coloring - 1](./Codeforces/basic/1551B1%20-%20Wonderful%20Coloring%20-%201) | [Codeforces](https://codeforces.com/problemset/problem/1551/B1) | basic | 11 Sept 2026 | 11:09 am |
 | 29 | [Count Ways to Group Overlapping Ranges](./LeetCode/Medium/Count%20Ways%20to%20Group%20Overlapping%20Ranges) | [LeetCode](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | Medium | 11 Sept 2026 | 03:12 pm |
+| 30 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 05:23 pm |
