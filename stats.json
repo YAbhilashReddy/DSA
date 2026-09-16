@@ -1,14 +1,14 @@
 {
-  "totalSolved": 31,
+  "totalSolved": 32,
   "currentStreak": 1,
   "maxStreak": 5,
   "lastSyncDate": "2026-09-16",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 6,
     "medium": 4,
     "hard": 1,
-    "basic": 20
+    "basic": 21
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -41,7 +41,8 @@
     "Codeforces_1551B1_-_Wonderful_Coloring_-_1": true,
     "LeetCode_Count_Ways_to_Group_Overlapping_Ranges": true,
     "LeetCode_Unique_3-Digit_Even_Numbers": true,
-    "Codeforces_B_-_Monsters": true
+    "Codeforces_B_-_Monsters": true,
+    "Codeforces_1849B_-_Monsters": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -59,9 +60,10 @@
     "2026-09-09": 2,
     "2026-09-10": 1,
     "2026-09-11": 3,
-    "2026-09-16": 1
+    "2026-09-16": 2
   },
   "todayProblems": [
-    "B - Monsters"
+    "B - Monsters",
+    "1849B - Monsters"
   ]
 }

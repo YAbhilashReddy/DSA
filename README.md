@@ -31,3 +31,4 @@
 | 29 | [Count Ways to Group Overlapping Ranges](./LeetCode/Medium/Count%20Ways%20to%20Group%20Overlapping%20Ranges) | [LeetCode](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | Medium | 11 Sept 2026 | 03:12 pm |
 | 30 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 05:23 pm |
 | 31 | [B - Monsters](./Codeforces/basic/B%20-%20Monsters) | [Codeforces](https://codeforces.com/contest/1849/problem/B) | basic | 16 Sept 2026 | 07:14 pm |
+| 32 | [1849B - Monsters](./Codeforces/basic/1849B%20-%20Monsters) | [Codeforces](https://codeforces.com/problemset/problem/1849/B) | basic | 16 Sept 2026 | 07:15 pm |
