@@ -1,14 +1,14 @@
 {
-  "totalSolved": 32,
+  "totalSolved": 33,
   "currentStreak": 1,
   "maxStreak": 5,
   "lastSyncDate": "2026-09-16",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 6,
     "medium": 4,
     "hard": 1,
-    "basic": 21
+    "basic": 22
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -42,7 +42,8 @@
     "LeetCode_Count_Ways_to_Group_Overlapping_Ranges": true,
     "LeetCode_Unique_3-Digit_Even_Numbers": true,
     "Codeforces_B_-_Monsters": true,
-    "Codeforces_1849B_-_Monsters": true
+    "Codeforces_1849B_-_Monsters": true,
+    "Codeforces_1917B_-_Erase_First_or_Second_Letter": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -60,10 +61,11 @@
     "2026-09-09": 2,
     "2026-09-10": 1,
     "2026-09-11": 3,
-    "2026-09-16": 2
+    "2026-09-16": 3
   },
   "todayProblems": [
     "B - Monsters",
-    "1849B - Monsters"
+    "1849B - Monsters",
+    "1917B - Erase First or Second Letter"
   ]
 }
