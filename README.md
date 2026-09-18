@@ -34,3 +34,4 @@
 | 32 | [1849B - Monsters](./Codeforces/basic/1849B%20-%20Monsters) | [Codeforces](https://codeforces.com/problemset/problem/1849/B) | basic | 16 Sept 2026 | 07:15 pm |
 | 33 | [1917B - Erase First or Second Letter](./Codeforces/basic/1917B%20-%20Erase%20First%20or%20Second%20Letter) | [Codeforces](https://codeforces.com/problemset/problem/1917/B) | basic | 16 Sept 2026 | 07:46 pm |
 | 34 | [Valid Triangle Number](./LeetCode/Medium/Valid%20Triangle%20Number) | [LeetCode](https://leetcode.com/problems/valid-triangle-number/) | Medium | 18 Sept 2026 | 07:05 am |
+| 35 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 18 Sept 2026 | 02:22 pm |
