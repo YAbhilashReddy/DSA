@@ -35,3 +35,4 @@
 | 33 | [1917B - Erase First or Second Letter](./Codeforces/basic/1917B%20-%20Erase%20First%20or%20Second%20Letter) | [Codeforces](https://codeforces.com/problemset/problem/1917/B) | basic | 16 Sept 2026 | 07:46 pm |
 | 34 | [Valid Triangle Number](./LeetCode/Medium/Valid%20Triangle%20Number) | [LeetCode](https://leetcode.com/problems/valid-triangle-number/) | Medium | 18 Sept 2026 | 07:05 am |
 | 35 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 18 Sept 2026 | 02:22 pm |
+| 36 | [1676E - Eating Queries](./Codeforces/basic/1676E%20-%20Eating%20Queries) | [Codeforces](https://codeforces.com/problemset/problem/1676/E) | basic | 19 Sept 2026 | 08:29 pm |
