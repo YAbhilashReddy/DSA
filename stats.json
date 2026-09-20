@@ -1,14 +1,14 @@
 {
-  "totalSolved": 37,
+  "totalSolved": 38,
   "currentStreak": 3,
   "maxStreak": 5,
   "lastSyncDate": "2026-09-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 7,
     "medium": 6,
     "hard": 1,
-    "basic": 23
+    "basic": 24
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -47,7 +47,8 @@
     "LeetCode_Valid_Triangle_Number": true,
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
     "Codeforces_1676E_-_Eating_Queries": true,
-    "LeetCode_Reverse_Degree_of_a_String": true
+    "LeetCode_Reverse_Degree_of_a_String": true,
+    "Codeforces_4C_-_Registration_System": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -68,9 +69,10 @@
     "2026-09-16": 3,
     "2026-09-18": 2,
     "2026-09-19": 1,
-    "2026-09-20": 1
+    "2026-09-20": 2
   },
   "todayProblems": [
-    "Reverse Degree of a String"
+    "Reverse Degree of a String",
+    "4C - Registration System"
   ]
 }

@@ -1,0 +1,18 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    int t;cin>>t;
+    unordered_map<string,int> freq;
+    while(t--){
+        string s;cin>>s;
+        if(!freq.count(s)) cout << "OK\n" , freq[s] = 1;
+        else{
+            cout << s << freq[s] << endl;
+            freq[s] ++;
+        }
+    }
+  return 0;
+}
