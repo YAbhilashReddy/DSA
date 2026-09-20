@@ -36,3 +36,4 @@
 | 34 | [Valid Triangle Number](./LeetCode/Medium/Valid%20Triangle%20Number) | [LeetCode](https://leetcode.com/problems/valid-triangle-number/) | Medium | 18 Sept 2026 | 07:05 am |
 | 35 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 18 Sept 2026 | 02:22 pm |
 | 36 | [1676E - Eating Queries](./Codeforces/basic/1676E%20-%20Eating%20Queries) | [Codeforces](https://codeforces.com/problemset/problem/1676/E) | basic | 19 Sept 2026 | 08:29 pm |
+| 37 | [Reverse Degree of a String](./LeetCode/Easy/Reverse%20Degree%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | 20 Sept 2026 | 10:52 am |
