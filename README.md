@@ -39,3 +39,4 @@
 | 37 | [Reverse Degree of a String](./LeetCode/Easy/Reverse%20Degree%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | 20 Sept 2026 | 10:52 am |
 | 38 | [4C - Registration System](./Codeforces/basic/4C%20-%20Registration%20System) | [Codeforces](https://codeforces.com/problemset/problem/4/C) | basic | 20 Sept 2026 | 12:23 pm |
 | 39 | [616A - Comparing Two Long Integers](./Codeforces/basic/616A%20-%20Comparing%20Two%20Long%20Integers) | [Codeforces](https://codeforces.com/problemset/problem/616/A) | basic | 21 Sept 2026 | 10:26 am |
+| 40 | [230B - T-primes](./Codeforces/basic/230B%20-%20T-primes) | [Codeforces](https://codeforces.com/problemset/problem/230/B) | basic | 21 Sept 2026 | 11:35 am |
