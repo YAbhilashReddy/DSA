@@ -1,0 +1,31 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    string a,b;cin>>a>>b;
+    int idxa = 0 , idxb = 0;
+    for(int i=0 ; i<a.length() ; i++){
+        if(a[i] != '0') break;
+        idxa++;
+    }
+    for(int i=0 ; i<b.length() ; i++){
+        if(b[i] != '0') break;
+        idxb++;
+    }
+    a = a.erase(0,idxa) , b = b.erase(0,idxb);
+    char c;
+    if(a.length() > b.length()) c = '>';
+    else if(a.length() < b.length()) c = '<';
+    else if(a == b) c = '='; 
+    else {
+        for(int i=0; i<a.length() ; i++){
+            if(a[i] == b[i]) continue;
+            else if(a[i] > b[i]) {c = '>';break;}
+            else {c = '<';break;}
+        }
+    }
+    cout << c << endl;
+  return 0;
+}
