@@ -1,14 +1,14 @@
 {
-  "totalSolved": 40,
-  "currentStreak": 4,
+  "totalSolved": 41,
+  "currentStreak": 5,
   "maxStreak": 5,
-  "lastSyncDate": "2026-09-21",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-22",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 7,
     "medium": 6,
     "hard": 1,
-    "basic": 26
+    "basic": 27
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -50,7 +50,8 @@
     "LeetCode_Reverse_Degree_of_a_String": true,
     "Codeforces_4C_-_Registration_System": true,
     "Codeforces_616A_-_Comparing_Two_Long_Integers": true,
-    "Codeforces_230B_-_T-primes": true
+    "Codeforces_230B_-_T-primes": true,
+    "Codeforces_B_-_Three_Piles": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -72,10 +73,10 @@
     "2026-09-18": 2,
     "2026-09-19": 1,
     "2026-09-20": 2,
-    "2026-09-21": 2
+    "2026-09-21": 2,
+    "2026-09-22": 1
   },
   "todayProblems": [
-    "616A - Comparing Two Long Integers",
-    "230B - T-primes"
+    "B - Three Piles"
   ]
 }

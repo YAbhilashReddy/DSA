@@ -1,0 +1,12 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    int t;cin>>t;
+    while(t--){
+        int a,b,c;cin>>a>>b>>c;
+        int x = abs(a-b) , y = ((a+c) - b);
+        cout << max(x,y) << endl;
+    }
+  return 0; 
+}
