@@ -42,3 +42,4 @@
 | 40 | [230B - T-primes](./Codeforces/basic/230B%20-%20T-primes) | [Codeforces](https://codeforces.com/problemset/problem/230/B) | basic | 21 Sept 2026 | 11:35 am |
 | 41 | [B - Three Piles](./Codeforces/basic/B%20-%20Three%20Piles) | [Codeforces](https://codeforces.com/contest/2266/problem/B) | basic | 22 Sept 2026 | 03:17 pm |
 | 42 | [1811A - Insert Digit](./Codeforces/basic/1811A%20-%20Insert%20Digit) | [Codeforces](https://codeforces.com/problemset/problem/1811/A) | basic | 22 Sept 2026 | 03:44 pm |
+| 43 | [A - Increasing Sequence](./Codeforces/basic/A%20-%20Increasing%20Sequence) | [Codeforces](https://codeforces.com/contest/11/problem/A) | basic | 23 Sept 2026 | 11:21 am |
