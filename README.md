@@ -44,3 +44,4 @@
 | 42 | [1811A - Insert Digit](./Codeforces/basic/1811A%20-%20Insert%20Digit) | [Codeforces](https://codeforces.com/problemset/problem/1811/A) | basic | 22 Sept 2026 | 03:44 pm |
 | 43 | [A - Increasing Sequence](./Codeforces/basic/A%20-%20Increasing%20Sequence) | [Codeforces](https://codeforces.com/contest/11/problem/A) | basic | 23 Sept 2026 | 11:21 am |
 | 44 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 24 Sept 2026 | 06:40 am |
+| 45 | [A - Fence](./Codeforces/basic/A%20-%20Fence) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/718839/problem/A) | basic | 24 Sept 2026 | 03:06 pm |
