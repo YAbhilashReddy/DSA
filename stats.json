@@ -1,14 +1,14 @@
 {
-  "totalSolved": 47,
+  "totalSolved": 48,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-24",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 8,
     "medium": 6,
     "hard": 1,
-    "basic": 32
+    "basic": 33
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -57,7 +57,8 @@
     "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
     "Codeforces_A_-_Fence": true,
     "Codeforces_363B_-_Fence": true,
-    "Codeforces_F_-_Karen_and_Coffee": true
+    "Codeforces_F_-_Karen_and_Coffee": true,
+    "Codeforces_816B_-_Karen_and_Coffee": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -82,12 +83,13 @@
     "2026-09-21": 2,
     "2026-09-22": 2,
     "2026-09-23": 1,
-    "2026-09-24": 4
+    "2026-09-24": 5
   },
   "todayProblems": [
     "Smallest Index With Digit Sum Equal to Index",
     "A - Fence",
     "363B - Fence",
-    "F - Karen and Coffee"
+    "F - Karen and Coffee",
+    "816B - Karen and Coffee"
   ]
 }
