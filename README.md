@@ -46,3 +46,4 @@
 | 44 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 24 Sept 2026 | 06:40 am |
 | 45 | [A - Fence](./Codeforces/basic/A%20-%20Fence) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/718839/problem/A) | basic | 24 Sept 2026 | 03:06 pm |
 | 46 | [363B - Fence](./Codeforces/basic/363B%20-%20Fence) | [Codeforces](https://codeforces.com/problemset/problem/363/B) | basic | 24 Sept 2026 | 03:07 pm |
+| 47 | [F - Karen and Coffee](./Codeforces/basic/F%20-%20Karen%20and%20Coffee) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/718839/problem/F) | basic | 24 Sept 2026 | 03:58 pm |

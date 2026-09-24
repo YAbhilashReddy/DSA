@@ -1,0 +1,20 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    int n,k,q;cin>>n>>k>>q;
+    vector<int> arr(200002, 0);
+    for(int i=0 ; i<n ; i++){
+        int l,r;cin>>l>>r;
+        arr[l]++ , arr[r+1]--;
+    }
+    for(int i=1 ; i<200002 ; i++) arr[i] += arr[i-1];
+    vector<int> prefix(200002 , 0);
+    prefix[0] = (arr[0] >= k);
+    for(int i=1 ; i<200002 ; i++) prefix[i] = prefix[i-1] + (arr[i] >= k);
+    while(q--){
+        int l,r;cin>>l>>r;
+        cout << prefix[r] - prefix[l-1] << endl;
+    }
+  return 0;
+}
