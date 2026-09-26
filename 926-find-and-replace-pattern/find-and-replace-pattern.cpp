@@ -1,22 +1,23 @@
 class Solution {
 public:
-    vector<int> wordpattern(string s){
+    vector<int> wordPattern(string s){
         if(s.empty()) return {};
-        vector<int> ans;
-        int idx = 0;
+        vector<int> res;
         unordered_map<char,int> freq;
-        for(int i=0 ; i<s.length() ; i++){
-            if(freq.find(s[i]) == freq.end()) freq[s[i]] = idx , idx++ , ans.push_back(freq[s[i]]);
-            else ans.push_back(freq[s[i]]);
+        int idx = 0;
+        for(char c:s){
+            if(freq.find(c) == freq.end()) freq[c] = idx , idx++ , res.push_back(freq[c]);
+            else res.push_back(freq[c]);
         }
-        return ans;
+        return res;
     }
+
     vector<string> findAndReplacePattern(vector<string>& words, string pattern) {
         vector<string> ans;
-        vector<int> code = wordpattern(pattern);
+        vector<int> patternCode = wordPattern(pattern);
         for(string word:words){
-            vector<int> patternwords = wordpattern(word);
-            if(code == patternwords) ans.push_back(word);
+            vector<int> wordCode = wordPattern(word);
+            if(wordCode == patternCode) ans.push_back(word);
         }
         return ans;
     }
