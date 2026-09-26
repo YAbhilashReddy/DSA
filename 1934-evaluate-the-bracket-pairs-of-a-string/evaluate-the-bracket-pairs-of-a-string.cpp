@@ -2,7 +2,7 @@ class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
         unordered_map<string , string> freq;
-        for(int i=0 ; i<knowledge.size() ; i++) freq[knowledge[i][0]] = knowledge[i][1];
+        for(auto &x:knowledge) freq[x[0]] = x[1];
         string ans = "";
         int start = -1;
         for(int i=0 ; i<s.length() ; i++){
