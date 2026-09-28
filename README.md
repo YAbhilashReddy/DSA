@@ -49,3 +49,4 @@
 | 47 | [F - Karen and Coffee](./Codeforces/basic/F%20-%20Karen%20and%20Coffee) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/718839/problem/F) | basic | 24 Sept 2026 | 03:58 pm |
 | 48 | [816B - Karen and Coffee](./Codeforces/basic/816B%20-%20Karen%20and%20Coffee) | [Codeforces](https://codeforces.com/problemset/problem/816/B) | basic | 24 Sept 2026 | 04:05 pm |
 | 49 | [1023A - Single Wildcard Pattern Matching](./Codeforces/basic/1023A%20-%20Single%20Wildcard%20Pattern%20Matching) | [Codeforces](https://codeforces.com/problemset/problem/1023/A) | basic | 28 Sept 2026 | 10:55 am |
+| 50 | [186A - Comparing Strings](./Codeforces/basic/186A%20-%20Comparing%20Strings) | [Codeforces](https://codeforces.com/problemset/problem/186/A) | basic | 28 Sept 2026 | 11:31 am |
