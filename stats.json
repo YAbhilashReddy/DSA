@@ -1,12 +1,12 @@
 {
-  "totalSolved": 53,
+  "totalSolved": 54,
   "currentStreak": 2,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-29",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 6,
+    "medium": 7,
     "hard": 1,
     "basic": 37
   },
@@ -63,7 +63,8 @@
     "Codeforces_186A_-_Comparing_Strings": true,
     "LeetCode_Find_the_K-Beauty_of_a_Number": true,
     "Codeforces_489B_-_BerSU_Ball": true,
-    "Codeforces_A_-_Laptops": true
+    "Codeforces_A_-_Laptops": true,
+    "LeetCode_Range_Sum_Query_2D_-_Immutable": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -90,10 +91,11 @@
     "2026-09-23": 1,
     "2026-09-24": 5,
     "2026-09-28": 3,
-    "2026-09-29": 2
+    "2026-09-29": 3
   },
   "todayProblems": [
     "489B - BerSU Ball",
-    "A - Laptops"
+    "A - Laptops",
+    "Range Sum Query 2D - Immutable"
   ]
 }
