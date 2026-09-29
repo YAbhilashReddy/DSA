@@ -1,14 +1,14 @@
 {
-  "totalSolved": 52,
+  "totalSolved": 53,
   "currentStreak": 2,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 9,
     "medium": 6,
     "hard": 1,
-    "basic": 36
+    "basic": 37
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -62,7 +62,8 @@
     "Codeforces_1023A_-_Single_Wildcard_Pattern_Matching": true,
     "Codeforces_186A_-_Comparing_Strings": true,
     "LeetCode_Find_the_K-Beauty_of_a_Number": true,
-    "Codeforces_489B_-_BerSU_Ball": true
+    "Codeforces_489B_-_BerSU_Ball": true,
+    "Codeforces_A_-_Laptops": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -89,9 +90,10 @@
     "2026-09-23": 1,
     "2026-09-24": 5,
     "2026-09-28": 3,
-    "2026-09-29": 1
+    "2026-09-29": 2
   },
   "todayProblems": [
-    "489B - BerSU Ball"
+    "489B - BerSU Ball",
+    "A - Laptops"
   ]
 }

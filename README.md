@@ -52,3 +52,4 @@
 | 50 | [186A - Comparing Strings](./Codeforces/basic/186A%20-%20Comparing%20Strings) | [Codeforces](https://codeforces.com/problemset/problem/186/A) | basic | 28 Sept 2026 | 11:31 am |
 | 51 | [Find the K-Beauty of a Number](./LeetCode/Easy/Find%20the%20K-Beauty%20of%20a%20Number) | [LeetCode](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | Easy | 28 Sept 2026 | 06:48 pm |
 | 52 | [489B - BerSU Ball](./Codeforces/basic/489B%20-%20BerSU%20Ball) | [Codeforces](https://codeforces.com/problemset/problem/489/B) | basic | 29 Sept 2026 | 09:41 am |
+| 53 | [A - Laptops](./Codeforces/basic/A%20-%20Laptops) | [Codeforces](https://codeforces.com/contest/456/problem/A) | basic | 29 Sept 2026 | 10:22 am |
