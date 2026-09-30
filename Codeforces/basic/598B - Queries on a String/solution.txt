@@ -1,0 +1,18 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    string s;cin>>s;
+    int q;cin>>q;
+    while(q--){
+        int l,r,k;cin>>l>>r>>k;
+        int len = r-l+1;
+        k %= len;
+        l-- , r--;
+        rotate(s.begin()+l , s.begin()+r+1-k , s.begin()+r+1);
+    }
+    cout << s << '\n';
+  return 0;
+}
