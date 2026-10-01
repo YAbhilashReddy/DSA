@@ -1,0 +1,43 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    string s;
+    cin >> s;
+    int q;
+    cin >> q;
+    int n = s.size();
+    // 26 ordered for each alphabet
+    vector<set<int>> v(26);
+    
+    for(int i = 0; i < n; i++) {
+        v[s[i] - 'a'].insert(i);
+    }
+    while(q--) {
+        int type;
+        cin >> type;
+        if(type == 1) {
+            int pos;
+            char ch;
+            cin >> pos >> ch;
+            pos--;
+            char curr_ch = s[pos];
+            v[curr_ch - 'a'].erase(pos);
+            v[ch - 'a'].insert(pos);
+            s[pos] = ch;
+        } else {
+            int l, r;
+            cin >> l >> r;
+            l--; r--;
+            int distinct = 0;
+            for(int i =0 ; i < 26; i++) {
+                auto it = v[i].lower_bound(l);
+                if (it != v[i].end() && *it <= r) {
+                    distinct++;
+                }
+            }
+            cout << distinct << endl;
+        }
+    }
+    return 0;
+}
