@@ -56,3 +56,4 @@
 | 54 | [Range Sum Query 2D - Immutable](./LeetCode/Medium/Range%20Sum%20Query%202D%20-%20Immutable) | [LeetCode](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | 29 Sept 2026 | 02:20 pm |
 | 55 | [598B - Queries on a String](./Codeforces/basic/598B%20-%20Queries%20on%20a%20String) | [Codeforces](https://codeforces.com/problemset/problem/598/B) | basic | 30 Sept 2026 | 11:47 am |
 | 56 | [D - Distinct Characters Queries](./Codeforces/basic/D%20-%20Distinct%20Characters%20Queries) | [Codeforces](https://codeforces.com/contest/1234/problem/D) | basic | 01 Oct 2026 | 09:13 am |
+| 57 | [C - Double Sort](./Codeforces/basic/C%20-%20Double%20Sort) | [Codeforces](https://codeforces.com/contest/1681/problem/C) | basic | 02 Oct 2026 | 04:45 pm |
