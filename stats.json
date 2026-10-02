@@ -1,14 +1,14 @@
 {
-  "totalSolved": 57,
+  "totalSolved": 58,
   "currentStreak": 5,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-02",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 9,
     "medium": 7,
     "hard": 1,
-    "basic": 40
+    "basic": 41
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -67,7 +67,8 @@
     "LeetCode_Range_Sum_Query_2D_-_Immutable": true,
     "Codeforces_598B_-_Queries_on_a_String": true,
     "Codeforces_D_-_Distinct_Characters_Queries": true,
-    "Codeforces_C_-_Double_Sort": true
+    "Codeforces_C_-_Double_Sort": true,
+    "Codeforces_1970A1_-_Balanced_Shuffle_Easy": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -97,9 +98,10 @@
     "2026-09-29": 3,
     "2026-09-30": 1,
     "2026-10-01": 1,
-    "2026-10-02": 1
+    "2026-10-02": 2
   },
   "todayProblems": [
-    "C - Double Sort"
+    "C - Double Sort",
+    "1970A1 - Balanced Shuffle Easy"
   ]
 }

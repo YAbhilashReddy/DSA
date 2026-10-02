@@ -57,3 +57,4 @@
 | 55 | [598B - Queries on a String](./Codeforces/basic/598B%20-%20Queries%20on%20a%20String) | [Codeforces](https://codeforces.com/problemset/problem/598/B) | basic | 30 Sept 2026 | 11:47 am |
 | 56 | [D - Distinct Characters Queries](./Codeforces/basic/D%20-%20Distinct%20Characters%20Queries) | [Codeforces](https://codeforces.com/contest/1234/problem/D) | basic | 01 Oct 2026 | 09:13 am |
 | 57 | [C - Double Sort](./Codeforces/basic/C%20-%20Double%20Sort) | [Codeforces](https://codeforces.com/contest/1681/problem/C) | basic | 02 Oct 2026 | 04:45 pm |
+| 58 | [1970A1 - Balanced Shuffle Easy](./Codeforces/basic/1970A1%20-%20Balanced%20Shuffle%20Easy) | [Codeforces](https://codeforces.com/problemset/problem/1970/A1) | basic | 02 Oct 2026 | 04:57 pm |

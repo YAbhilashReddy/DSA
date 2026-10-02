@@ -1,0 +1,21 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main() {
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    string s;cin >> s;
+    vector<pair<int,int>> pa;
+    int count = 0;
+    for(int i = 0; i < s.size(); i++) {
+        pa.push_back({count, i});
+        count += (s[i] == '(' ? 1 : -1);
+    }
+    sort(pa.begin(), pa.end(), [](auto &a, auto &b) {
+        if(a.first == b.first) return a.second > b.second;
+        return a.first < b.first;
+    });
+    for(auto [balance, index] : pa) cout << s[index];
+    cout << endl;
+    return 0;
+}
