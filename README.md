@@ -59,3 +59,4 @@
 | 57 | [C - Double Sort](./Codeforces/basic/C%20-%20Double%20Sort) | [Codeforces](https://codeforces.com/contest/1681/problem/C) | basic | 02 Oct 2026 | 04:45 pm |
 | 58 | [1970A1 - Balanced Shuffle Easy](./Codeforces/basic/1970A1%20-%20Balanced%20Shuffle%20Easy) | [Codeforces](https://codeforces.com/problemset/problem/1970/A1) | basic | 02 Oct 2026 | 04:57 pm |
 | 59 | [Corporate Flight Bookings](./LeetCode/Medium/Corporate%20Flight%20Bookings) | [LeetCode](https://leetcode.com/problems/corporate-flight-bookings/) | Medium | 03 Oct 2026 | 07:18 am |
+| 60 | [C - A TRUE Battle](./Codeforces/basic/C%20-%20A%20TRUE%20Battle) | [Codeforces](https://codeforces.com/contest/2030/problem/C) | basic | 03 Oct 2026 | 01:26 pm |
