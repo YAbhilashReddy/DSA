@@ -4,16 +4,34 @@ public:
         int MOD = 1e9 + 7;
         vector<long long> arr;
         for(int i=0 ; i<n ; i++){
-            int total = 0;
+            long long sum = 0;
             for(int j=i ; j<n ; j++){
-                for(int k=i ; k<=j ; k++) total += nums[k];
-                arr.push_back(total) , total = 0;
+                sum += nums[j];
+                arr.push_back(sum);
             }
         }
         sort(arr.begin() , arr.end());
         for(int i=1 ; i<arr.size() ; i++) arr[i] += arr[i-1];
         left-- , right--;
-        if(!left) return arr[right] % MOD;
-        return (arr[right] - arr[left-1]) % MOD;
+        long long ans = arr[right];
+        if(left) ans -= arr[left-1];
+        return ans % MOD;
+
+
+
+        // int MOD = 1e9 + 7;
+        // vector<long long> arr;
+        // for(int i=0 ; i<n ; i++){
+        //     int total = 0;
+        //     for(int j=i ; j<n ; j++){
+        //         for(int k=i ; k<=j ; k++) total += nums[k];
+        //         arr.push_back(total) , total = 0;
+        //     }
+        // }
+        // sort(arr.begin() , arr.end());
+        // for(int i=1 ; i<arr.size() ; i++) arr[i] += arr[i-1];
+        // left-- , right--;
+        // if(!left) return arr[right] % MOD;
+        // return (arr[right] - arr[left-1]) % MOD;
     }
 };
