@@ -1,14 +1,14 @@
 {
-  "totalSolved": 61,
+  "totalSolved": 62,
   "currentStreak": 6,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-03",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 9,
     "medium": 8,
     "hard": 1,
-    "basic": 43
+    "basic": 44
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -71,7 +71,8 @@
     "Codeforces_1970A1_-_Balanced_Shuffle_Easy": true,
     "LeetCode_Corporate_Flight_Bookings": true,
     "Codeforces_C_-_A_TRUE_Battle": true,
-    "Codeforces_259A_-_Little_Elephant_and_Chess": true
+    "Codeforces_259A_-_Little_Elephant_and_Chess": true,
+    "Codeforces_864B_-_Polycarp_and_Letters": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -102,11 +103,12 @@
     "2026-09-30": 1,
     "2026-10-01": 1,
     "2026-10-02": 2,
-    "2026-10-03": 3
+    "2026-10-03": 4
   },
   "todayProblems": [
     "Corporate Flight Bookings",
     "C - A TRUE Battle",
-    "259A - Little Elephant and Chess"
+    "259A - Little Elephant and Chess",
+    "864B - Polycarp and Letters"
   ]
 }
