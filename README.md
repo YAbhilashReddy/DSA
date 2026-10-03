@@ -58,3 +58,4 @@
 | 56 | [D - Distinct Characters Queries](./Codeforces/basic/D%20-%20Distinct%20Characters%20Queries) | [Codeforces](https://codeforces.com/contest/1234/problem/D) | basic | 01 Oct 2026 | 09:13 am |
 | 57 | [C - Double Sort](./Codeforces/basic/C%20-%20Double%20Sort) | [Codeforces](https://codeforces.com/contest/1681/problem/C) | basic | 02 Oct 2026 | 04:45 pm |
 | 58 | [1970A1 - Balanced Shuffle Easy](./Codeforces/basic/1970A1%20-%20Balanced%20Shuffle%20Easy) | [Codeforces](https://codeforces.com/problemset/problem/1970/A1) | basic | 02 Oct 2026 | 04:57 pm |
+| 59 | [Corporate Flight Bookings](./LeetCode/Medium/Corporate%20Flight%20Bookings) | [LeetCode](https://leetcode.com/problems/corporate-flight-bookings/) | Medium | 03 Oct 2026 | 07:18 am |
