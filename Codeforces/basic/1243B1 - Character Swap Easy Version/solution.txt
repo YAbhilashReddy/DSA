@@ -1,0 +1,25 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    int t;cin>>t;
+    while(t--){
+        int n;cin>>n;
+        string a,b;cin>>a>>b;
+        string A = a, B = b;
+        sort(A.begin() , A.end());
+        sort(B.begin() , B.end());
+        if(A == B) cout << "NO\n";
+        else {
+            unordered_set<char> st;
+            int c = 0;
+            for(int i=0 ; i<n ; i++){
+                if(a[i] != b[i]) st.insert(a[i]) , st.insert(b[i]) , c++;
+            }
+            cout << (st.size() == 2 && c == 2 ? "YES" :"NO") << '\n';
+        }
+    }
+  return 0;
+}

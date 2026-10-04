@@ -63,3 +63,4 @@
 | 61 | [259A - Little Elephant and Chess](./Codeforces/basic/259A%20-%20Little%20Elephant%20and%20Chess) | [Codeforces](https://codeforces.com/problemset/problem/259/A) | basic | 03 Oct 2026 | 03:56 pm |
 | 62 | [864B - Polycarp and Letters](./Codeforces/basic/864B%20-%20Polycarp%20and%20Letters) | [Codeforces](https://codeforces.com/problemset/problem/864/B) | basic | 03 Oct 2026 | 04:13 pm |
 | 63 | [Nim Game](./LeetCode/Easy/Nim%20Game) | [LeetCode](https://leetcode.com/problems/nim-game/) | Easy | 04 Oct 2026 | 12:32 pm |
+| 64 | [1243B1 - Character Swap Easy Version](./Codeforces/basic/1243B1%20-%20Character%20Swap%20Easy%20Version) | [Codeforces](https://codeforces.com/problemset/problem/1243/B1) | basic | 04 Oct 2026 | 02:47 pm |
