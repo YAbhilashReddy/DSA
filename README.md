@@ -62,3 +62,4 @@
 | 60 | [C - A TRUE Battle](./Codeforces/basic/C%20-%20A%20TRUE%20Battle) | [Codeforces](https://codeforces.com/contest/2030/problem/C) | basic | 03 Oct 2026 | 01:26 pm |
 | 61 | [259A - Little Elephant and Chess](./Codeforces/basic/259A%20-%20Little%20Elephant%20and%20Chess) | [Codeforces](https://codeforces.com/problemset/problem/259/A) | basic | 03 Oct 2026 | 03:56 pm |
 | 62 | [864B - Polycarp and Letters](./Codeforces/basic/864B%20-%20Polycarp%20and%20Letters) | [Codeforces](https://codeforces.com/problemset/problem/864/B) | basic | 03 Oct 2026 | 04:13 pm |
+| 63 | [Nim Game](./LeetCode/Easy/Nim%20Game) | [LeetCode](https://leetcode.com/problems/nim-game/) | Easy | 04 Oct 2026 | 12:32 pm |
