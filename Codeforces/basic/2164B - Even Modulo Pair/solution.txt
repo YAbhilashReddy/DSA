@@ -1,0 +1,22 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    int t;cin>>t;
+    while(t--){
+        int n;cin>>n;
+        vector<int> arr(n);
+        for(int i=0 ; i<n ; i++) cin>>arr[i];
+        bool r = true;
+        for(int i=0 ; i<n ; i++){
+            for(int j=i+1 ; j<n ; j++){
+                if((arr[j] % arr[i]) % 2 == 0) {r = false ; cout << arr[i] << ' ' << arr[j] << '\n'; break;}
+            }
+            if(!r) break;
+        }
+        if(r) cout << "-1\n";
+    }
+  return 0;
+}

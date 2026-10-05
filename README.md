@@ -65,3 +65,4 @@
 | 63 | [Nim Game](./LeetCode/Easy/Nim%20Game) | [LeetCode](https://leetcode.com/problems/nim-game/) | Easy | 04 Oct 2026 | 12:32 pm |
 | 64 | [1243B1 - Character Swap Easy Version](./Codeforces/basic/1243B1%20-%20Character%20Swap%20Easy%20Version) | [Codeforces](https://codeforces.com/problemset/problem/1243/B1) | basic | 04 Oct 2026 | 02:47 pm |
 | 65 | [37A - Towers](./Codeforces/basic/37A%20-%20Towers) | [Codeforces](https://codeforces.com/problemset/problem/37/A) | basic | 05 Oct 2026 | 12:19 pm |
+| 66 | [2164B - Even Modulo Pair](./Codeforces/basic/2164B%20-%20Even%20Modulo%20Pair) | [Codeforces](https://codeforces.com/problemset/problem/2164/B) | basic | 05 Oct 2026 | 03:33 pm |
