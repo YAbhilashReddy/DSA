@@ -71,3 +71,4 @@
 | 69 | [313B - Ilya and Queries](./Codeforces/basic/313B%20-%20Ilya%20and%20Queries) | [Codeforces](https://codeforces.com/problemset/problem/313/B) | basic | 08 Oct 2026 | 03:38 pm |
 | 70 | [C - Manaswini and Queries](./Codeforces/basic/C%20-%20Manaswini%20and%20Queries) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/722650/problem/C) | basic | 08 Oct 2026 | 03:38 pm |
 | 71 | [279B - Books](./Codeforces/basic/279B%20-%20Books) | [Codeforces](https://codeforces.com/problemset/problem/279/B) | basic | 08 Oct 2026 | 03:56 pm |
+| 72 | [E - Books](./Codeforces/basic/E%20-%20Books) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/722650/problem/E) | basic | 08 Oct 2026 | 03:56 pm |
