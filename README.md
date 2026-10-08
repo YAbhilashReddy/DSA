@@ -67,3 +67,4 @@
 | 65 | [37A - Towers](./Codeforces/basic/37A%20-%20Towers) | [Codeforces](https://codeforces.com/problemset/problem/37/A) | basic | 05 Oct 2026 | 12:19 pm |
 | 66 | [2164B - Even Modulo Pair](./Codeforces/basic/2164B%20-%20Even%20Modulo%20Pair) | [Codeforces](https://codeforces.com/problemset/problem/2164/B) | basic | 05 Oct 2026 | 03:33 pm |
 | 67 | [1204B - Mislove Has Lost an Array](./Codeforces/basic/1204B%20-%20Mislove%20Has%20Lost%20an%20Array) | [Codeforces](https://codeforces.com/problemset/problem/1204/B) | basic | 08 Oct 2026 | 03:10 pm |
+| 68 | [A - Manaswini Has Lost an Array](./Codeforces/basic/A%20-%20Manaswini%20Has%20Lost%20an%20Array) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/722650/problem/A) | basic | 08 Oct 2026 | 03:10 pm |
