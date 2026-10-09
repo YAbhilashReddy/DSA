@@ -72,3 +72,4 @@
 | 70 | [C - Manaswini and Queries](./Codeforces/basic/C%20-%20Manaswini%20and%20Queries) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/722650/problem/C) | basic | 08 Oct 2026 | 03:38 pm |
 | 71 | [279B - Books](./Codeforces/basic/279B%20-%20Books) | [Codeforces](https://codeforces.com/problemset/problem/279/B) | basic | 08 Oct 2026 | 03:56 pm |
 | 72 | [E - Books](./Codeforces/basic/E%20-%20Books) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/722650/problem/E) | basic | 08 Oct 2026 | 03:56 pm |
+| 73 | [2260A - Monocarps Contest](./Codeforces/basic/2260A%20-%20Monocarps%20Contest) | [Codeforces](https://codeforces.com/problemset/problem/2260/A) | basic | 09 Oct 2026 | 09:49 am |
