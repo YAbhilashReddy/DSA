@@ -1,12 +1,12 @@
 {
-  "totalSolved": 74,
+  "totalSolved": 75,
   "currentStreak": 2,
   "maxStreak": 8,
   "lastSyncDate": "2026-10-09",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 8,
+    "medium": 9,
     "hard": 1,
     "basic": 55
   },
@@ -84,7 +84,8 @@
     "Codeforces_279B_-_Books": true,
     "Codeforces_E_-_Books": true,
     "Codeforces_2260A_-_Monocarps_Contest": true,
-    "Codeforces_B_-_01_Game": true
+    "Codeforces_B_-_01_Game": true,
+    "GeeksForGeeks_Zero_Sum_Subarray": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -119,10 +120,11 @@
     "2026-10-04": 2,
     "2026-10-05": 2,
     "2026-10-08": 6,
-    "2026-10-09": 2
+    "2026-10-09": 3
   },
   "todayProblems": [
     "2260A - Monocarps Contest",
-    "B - 01 Game"
+    "B - 01 Game",
+    "Zero Sum Subarray"
   ]
 }

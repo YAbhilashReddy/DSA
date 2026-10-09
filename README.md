@@ -74,3 +74,4 @@
 | 72 | [E - Books](./Codeforces/basic/E%20-%20Books) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/722650/problem/E) | basic | 08 Oct 2026 | 03:56 pm |
 | 73 | [2260A - Monocarps Contest](./Codeforces/basic/2260A%20-%20Monocarps%20Contest) | [Codeforces](https://codeforces.com/problemset/problem/2260/A) | basic | 09 Oct 2026 | 09:49 am |
 | 74 | [B - 01 Game](./Codeforces/basic/B%20-%2001%20Game) | [Codeforces](https://codeforces.com/contest/1373/problem/B) | basic | 09 Oct 2026 | 10:09 am |
+| 75 | [Zero Sum Subarray](./GeeksForGeeks/Medium/Zero%20Sum%20Subarray) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) | Medium | 09 Oct 2026 | 02:59 pm |
