@@ -73,3 +73,4 @@
 | 71 | [279B - Books](./Codeforces/basic/279B%20-%20Books) | [Codeforces](https://codeforces.com/problemset/problem/279/B) | basic | 08 Oct 2026 | 03:56 pm |
 | 72 | [E - Books](./Codeforces/basic/E%20-%20Books) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/722650/problem/E) | basic | 08 Oct 2026 | 03:56 pm |
 | 73 | [2260A - Monocarps Contest](./Codeforces/basic/2260A%20-%20Monocarps%20Contest) | [Codeforces](https://codeforces.com/problemset/problem/2260/A) | basic | 09 Oct 2026 | 09:49 am |
+| 74 | [B - 01 Game](./Codeforces/basic/B%20-%2001%20Game) | [Codeforces](https://codeforces.com/contest/1373/problem/B) | basic | 09 Oct 2026 | 10:09 am |
