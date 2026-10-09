@@ -75,3 +75,4 @@
 | 73 | [2260A - Monocarps Contest](./Codeforces/basic/2260A%20-%20Monocarps%20Contest) | [Codeforces](https://codeforces.com/problemset/problem/2260/A) | basic | 09 Oct 2026 | 09:49 am |
 | 74 | [B - 01 Game](./Codeforces/basic/B%20-%2001%20Game) | [Codeforces](https://codeforces.com/contest/1373/problem/B) | basic | 09 Oct 2026 | 10:09 am |
 | 75 | [Zero Sum Subarray](./GeeksForGeeks/Medium/Zero%20Sum%20Subarray) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) | Medium | 09 Oct 2026 | 02:59 pm |
+| 76 | [Kadane's Algorithm](./GeeksForGeeks/Medium/Kadane's%20Algorithm) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | Medium | 09 Oct 2026 | 03:23 pm |
