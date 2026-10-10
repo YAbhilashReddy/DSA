@@ -1,12 +1,12 @@
 {
-  "totalSolved": 79,
+  "totalSolved": 80,
   "currentStreak": 3,
   "maxStreak": 8,
   "lastSyncDate": "2026-10-10",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 12,
+    "medium": 13,
     "hard": 1,
     "basic": 56
   },
@@ -89,7 +89,8 @@
     "GeeksForGeeks_Kadane's_Algorithm": true,
     "GeeksForGeeks_Subarrays_with_Sum_K": true,
     "Codeforces_2247A_-_Zero_Sum": true,
-    "GeeksForGeeks_Largest_Subarray_with_0_Sum": true
+    "GeeksForGeeks_Largest_Subarray_with_0_Sum": true,
+    "LeetCode_Contiguous_Array": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -125,10 +126,11 @@
     "2026-10-05": 2,
     "2026-10-08": 6,
     "2026-10-09": 5,
-    "2026-10-10": 2
+    "2026-10-10": 3
   },
   "todayProblems": [
     "2247A - Zero Sum",
-    "Largest Subarray with 0 Sum"
+    "Largest Subarray with 0 Sum",
+    "Contiguous Array"
   ]
 }
