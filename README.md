@@ -77,3 +77,4 @@
 | 75 | [Zero Sum Subarray](./GeeksForGeeks/Medium/Zero%20Sum%20Subarray) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) | Medium | 09 Oct 2026 | 02:59 pm |
 | 76 | [Kadane's Algorithm](./GeeksForGeeks/Medium/Kadane's%20Algorithm) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | Medium | 09 Oct 2026 | 03:23 pm |
 | 77 | [Subarrays with Sum K](./GeeksForGeeks/Medium/Subarrays%20with%20Sum%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1) | Medium | 09 Oct 2026 | 03:43 pm |
+| 78 | [2247A - Zero Sum](./Codeforces/basic/2247A%20-%20Zero%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/2247/A) | basic | 10 Oct 2026 | 10:57 am |
