@@ -80,3 +80,4 @@
 | 78 | [2247A - Zero Sum](./Codeforces/basic/2247A%20-%20Zero%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/2247/A) | basic | 10 Oct 2026 | 10:57 am |
 | 79 | [Largest Subarray with 0 Sum](./GeeksForGeeks/Medium/Largest%20Subarray%20with%200%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | Medium | 10 Oct 2026 | 11:45 am |
 | 80 | [Contiguous Array](./LeetCode/Medium/Contiguous%20Array) | [LeetCode](https://leetcode.com/problems/contiguous-array/) | Medium | 10 Oct 2026 | 12:14 pm |
+| 81 | [A - Inversions](./Codeforces/basic/A%20-%20Inversions) | [Codeforces](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/A) | basic | 10 Oct 2026 | 08:21 pm |

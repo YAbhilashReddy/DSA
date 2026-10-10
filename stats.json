@@ -1,14 +1,14 @@
 {
-  "totalSolved": 80,
+  "totalSolved": 81,
   "currentStreak": 3,
   "maxStreak": 8,
   "lastSyncDate": "2026-10-10",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 10,
     "medium": 13,
     "hard": 1,
-    "basic": 56
+    "basic": 57
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -90,7 +90,8 @@
     "GeeksForGeeks_Subarrays_with_Sum_K": true,
     "Codeforces_2247A_-_Zero_Sum": true,
     "GeeksForGeeks_Largest_Subarray_with_0_Sum": true,
-    "LeetCode_Contiguous_Array": true
+    "LeetCode_Contiguous_Array": true,
+    "Codeforces_A_-_Inversions": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -126,11 +127,12 @@
     "2026-10-05": 2,
     "2026-10-08": 6,
     "2026-10-09": 5,
-    "2026-10-10": 3
+    "2026-10-10": 4
   },
   "todayProblems": [
     "2247A - Zero Sum",
     "Largest Subarray with 0 Sum",
-    "Contiguous Array"
+    "Contiguous Array",
+    "A - Inversions"
   ]
 }
