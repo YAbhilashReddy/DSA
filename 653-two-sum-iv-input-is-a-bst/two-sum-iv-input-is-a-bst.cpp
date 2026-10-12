@@ -21,14 +21,30 @@ public:
     bool findTarget(TreeNode* root, int k) {
         vector<int> arr;
         dfs(root , arr);
-        sort(arr.begin() , arr.end());
-        int i=0 , j=arr.size()-1;
-        while(i < j){
-            int sum = arr[i] + arr[j];
-            if(sum == k) return true;
-            else if(sum < k) i++;
-            else j--;
+        unordered_map<int,int> seen;
+        for(int i=0 ; i<arr.size() ; i++){
+            int diff = k - arr[i];
+            if(seen.count(diff)) return true;
+            seen[arr[i]] = i;
         }
         return false;
+
+
+
+
+
+
+
+        // vector<int> arr;
+        // dfs(root , arr);
+        // sort(arr.begin() , arr.end());
+        // int i=0 , j=arr.size()-1;
+        // while(i < j){
+        //     int sum = arr[i] + arr[j];
+        //     if(sum == k) return true;
+        //     else if(sum < k) i++;
+        //     else j--;
+        // }
+        // return false;
     }
 };
