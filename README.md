@@ -81,3 +81,4 @@
 | 79 | [Largest Subarray with 0 Sum](./GeeksForGeeks/Medium/Largest%20Subarray%20with%200%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | Medium | 10 Oct 2026 | 11:45 am |
 | 80 | [Contiguous Array](./LeetCode/Medium/Contiguous%20Array) | [LeetCode](https://leetcode.com/problems/contiguous-array/) | Medium | 10 Oct 2026 | 12:14 pm |
 | 81 | [A - Inversions](./Codeforces/basic/A%20-%20Inversions) | [Codeforces](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/A) | basic | 10 Oct 2026 | 08:21 pm |
+| 82 | [P24 - Bubble sort](./Codeforces/basic/P24%20-%20Bubble%20sort) | [Codeforces](https://codeforces.com/group/yg7WhsFsAp/contest/355494/problem/P24) | basic | 12 Oct 2026 | 11:17 am |
