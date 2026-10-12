@@ -1,14 +1,14 @@
 {
-  "totalSolved": 83,
+  "totalSolved": 84,
   "currentStreak": 1,
   "maxStreak": 8,
   "lastSyncDate": "2026-10-12",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 10,
     "medium": 13,
     "hard": 1,
-    "basic": 59
+    "basic": 60
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -93,7 +93,8 @@
     "LeetCode_Contiguous_Array": true,
     "Codeforces_A_-_Inversions": true,
     "Codeforces_P24_-_Bubble_sort": true,
-    "Codeforces_P25_-_The_price_is_right": true
+    "Codeforces_P25_-_The_price_is_right": true,
+    "Codeforces_A_-_Merging_Arrays": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -130,10 +131,11 @@
     "2026-10-08": 6,
     "2026-10-09": 5,
     "2026-10-10": 4,
-    "2026-10-12": 2
+    "2026-10-12": 3
   },
   "todayProblems": [
     "P24 - Bubble sort",
-    "P25 - The price is right"
+    "P25 - The price is right",
+    "A - Merging Arrays"
   ]
 }
