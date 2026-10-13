@@ -1,0 +1,36 @@
+#include <bits/stdc++.h>
+using namespace std;
+void solve() {
+int n;
+cin >> n;
+vector<long long> tek;
+long long cem = 0;
+int tek_say = 0;
+for (int i = 0; i < n; i++) {
+long long x;
+cin >> x;
+cem += x;
+if (x % 2 != 0) {
+tek.push_back(x);
+tek_say++;
+}
+}
+if (tek_say == 0) {
+cout << 0 << endl;
+return;
+}
+sort(tek.begin(), tek.end());
+long long itki = 0;
+for (int i = 0; i < tek_say / 2; i++) {
+itki += tek[i];
+}
+cout << cem - itki << endl;
+}
+int main() {
+int t;
+cin >> t;
+while (t--) {
+solve();
+}
+return 0;
+}
