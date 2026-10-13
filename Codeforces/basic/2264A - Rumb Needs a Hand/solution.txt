@@ -1,0 +1,59 @@
+// In the name of ALLAH, The Most Gracious and The Most Merciful
+
+#include<bits/stdc++.h>
+#include<ext/pb_ds/assoc_container.hpp>
+#include<ext/pb_ds/tree_policy.hpp>
+using namespace std;
+using namespace __gnu_pbds;
+
+#define int long long
+#define F first
+#define S second
+#define pb push_back
+#define yes cout<<"YES\n"
+#define no cout<<"NO\n"
+#define sp ' '
+#define el "\n"
+#define all(v) v.begin(), v.end()
+#define inarr(arr, sz) for(int i = 1; i <= (sz); i++) cin >> arr[i];
+#define outarr(arr) for(auto x: arr) cerr << x << sp;
+using ld = long double;
+using ll = long long;
+
+int di[] = {1, 0, 0, -1};
+int dj[] = {0, -1, 1, 0};
+
+const ll MOD = 1e9 + 7, INF = 1e18;
+
+template <typename T> using o_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>; // less - st.order_of_key(val); st[0] --- st.find_by_order(0)
+
+void solve() {
+    ll n;
+    cin >> n;
+    vector<ll> v(n + 1), v1;
+    inarr(v, n);
+    for (int i = 1; i <= n; i++) {
+        if (i != v[i]) v1.pb(i);
+    }
+    if (v1.size()) {
+        for (int i = 0, j = v1.size() - 1; i <= j; i++, j--) {
+            swap(v[v1[i]], v[v1[j]]);
+        }
+    }
+    if (is_sorted(all(v))) yes;
+    else no;
+}
+
+int32_t main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t = 1;
+    cin >> t;
+    for (int i = 1; i <= t; i++) {
+        // cout << "Case " << i << ": ";
+        solve();
+    }
+    return 0;
+}
+// Coded by NASA
