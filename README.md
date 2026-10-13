@@ -84,3 +84,4 @@
 | 82 | [P24 - Bubble sort](./Codeforces/basic/P24%20-%20Bubble%20sort) | [Codeforces](https://codeforces.com/group/yg7WhsFsAp/contest/355494/problem/P24) | basic | 12 Oct 2026 | 11:17 am |
 | 83 | [P25 - The price is right](./Codeforces/basic/P25%20-%20The%20price%20is%20right) | [Codeforces](https://codeforces.com/group/yg7WhsFsAp/contest/355494/problem/P25) | basic | 12 Oct 2026 | 11:39 am |
 | 84 | [A - Merging Arrays](./Codeforces/basic/A%20-%20Merging%20Arrays) | [Codeforces](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/A) | basic | 12 Oct 2026 | 03:13 pm |
+| 85 | [B - Number of Smaller](./Codeforces/basic/B%20-%20Number%20of%20Smaller) | [Codeforces](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/B) | basic | 13 Oct 2026 | 09:54 am |
