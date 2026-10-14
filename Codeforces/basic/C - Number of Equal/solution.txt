@@ -1,0 +1,27 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    int n,m;cin>>n>>m;
+    vector<int> A(n) , B(m);
+    long long total = 0;
+    for(int i=0 ; i<n ; i++) cin>>A[i];
+    for(int i=0 ; i<m ; i++) cin>>B[i];
+    int i=0 , j=0;
+    while(i < n && j < m){
+        if(A[i] < B[j]) i++;
+        else if(A[i] > B[j]) j++;
+        else {
+            int x = A[i];
+            long long countA = 0 , countB = 0;
+            while(i < n && A[i] == x) countA++ , i++;
+            while(j < m && B[j] == x) countB++ , j++;
+            total += (countA * countB);
+        }
+    }
+    cout << total << '\n';
+  return 0;
+}
