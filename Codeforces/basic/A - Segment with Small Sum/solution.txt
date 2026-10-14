@@ -1,0 +1,24 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int slove(){
+    int n;
+    long long s;cin>>n>>s;
+    vector<int> arr(n);
+    for(int i=0 ; i<n ; i++) cin>>arr[i];
+    int maxi = 0 , left = 0;
+    long long sum = 0;
+    for(int right = 0 ; right < n ; right++){
+        sum += arr[right];
+        while(sum > s) sum -= arr[left++];
+        maxi = max(maxi , right - left + 1);
+    }
+    return maxi;
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    cout << slove() << '\n';
+  return 0;
+}
