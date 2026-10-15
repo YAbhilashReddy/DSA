@@ -92,3 +92,4 @@
 | 90 | [A - Segment with Small Sum](./Codeforces/basic/A%20-%20Segment%20with%20Small%20Sum) | [Codeforces](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/A) | basic | 14 Oct 2026 | 02:09 pm |
 | 91 | [B - Segment with Big Sum](./Codeforces/basic/B%20-%20Segment%20with%20Big%20Sum) | [Codeforces](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/B) | basic | 15 Oct 2026 | 09:47 am |
 | 92 | [1669F - Eating Candies](./Codeforces/basic/1669F%20-%20Eating%20Candies) | [Codeforces](https://codeforces.com/problemset/problem/1669/F) | basic | 15 Oct 2026 | 03:03 pm |
+| 93 | [A - The Special Batch](./Codeforces/basic/A%20-%20The%20Special%20Batch) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/724611/problem/A) | basic | 15 Oct 2026 | 03:03 pm |

@@ -1,14 +1,14 @@
 {
-  "totalSolved": 92,
+  "totalSolved": 93,
   "currentStreak": 4,
   "maxStreak": 8,
   "lastSyncDate": "2026-10-15",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 10,
     "medium": 13,
     "hard": 1,
-    "basic": 68
+    "basic": 69
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -102,7 +102,8 @@
     "Codeforces_C_-_Number_of_Equal": true,
     "Codeforces_A_-_Segment_with_Small_Sum": true,
     "Codeforces_B_-_Segment_with_Big_Sum": true,
-    "Codeforces_1669F_-_Eating_Candies": true
+    "Codeforces_1669F_-_Eating_Candies": true,
+    "Codeforces_A_-_The_Special_Batch": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -142,10 +143,11 @@
     "2026-10-12": 3,
     "2026-10-13": 4,
     "2026-10-14": 2,
-    "2026-10-15": 2
+    "2026-10-15": 3
   },
   "todayProblems": [
     "B - Segment with Big Sum",
-    "1669F - Eating Candies"
+    "1669F - Eating Candies",
+    "A - The Special Batch"
   ]
 }
