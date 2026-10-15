@@ -90,3 +90,4 @@
 | 88 | [2148D - Destruction of the Dandelion Fields](./Codeforces/basic/2148D%20-%20Destruction%20of%20the%20Dandelion%20Fields) | [Codeforces](https://codeforces.com/problemset/problem/2148/D) | basic | 13 Oct 2026 | 02:17 pm |
 | 89 | [C - Number of Equal](./Codeforces/basic/C%20-%20Number%20of%20Equal) | [Codeforces](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/C) | basic | 14 Oct 2026 | 01:44 pm |
 | 90 | [A - Segment with Small Sum](./Codeforces/basic/A%20-%20Segment%20with%20Small%20Sum) | [Codeforces](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/A) | basic | 14 Oct 2026 | 02:09 pm |
+| 91 | [B - Segment with Big Sum](./Codeforces/basic/B%20-%20Segment%20with%20Big%20Sum) | [Codeforces](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/B) | basic | 15 Oct 2026 | 09:47 am |

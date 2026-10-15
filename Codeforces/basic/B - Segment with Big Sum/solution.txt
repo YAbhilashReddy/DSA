@@ -1,0 +1,21 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    int n;
+    long long s;cin>>n>>s;
+    vector<int> arr(n);
+    for(int i=0 ; i<n ; i++) cin>>arr[i];
+    long long sum = 0;
+    int i = 0 , mini = INT_MAX;
+    for(int j=0 ; j<n ; j++){
+        sum += arr[j];
+        while(sum - arr[i] >= s) sum -= arr[i++];
+        if(sum >= s) mini = min(mini , j-i+1);
+    }
+    mini = (mini == INT_MAX ? -1 : mini);
+    cout << mini << '\n';
+  return 0;
+}
