@@ -95,3 +95,4 @@
 | 93 | [A - The Special Batch](./Codeforces/basic/A%20-%20The%20Special%20Batch) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/724611/problem/A) | basic | 15 Oct 2026 | 03:03 pm |
 | 94 | [F - Bus to Udayland](./Codeforces/basic/F%20-%20Bus%20to%20Udayland) | [Codeforces](https://codeforces.com/group/yg7WhsFsAp/contest/355508/problem/F) | basic | 16 Oct 2026 | 10:42 am |
 | 95 | [1059A - Cashier](./Codeforces/basic/1059A%20-%20Cashier) | [Codeforces](https://codeforces.com/problemset/problem/1059/A) | basic | 16 Oct 2026 | 11:01 am |
+| 96 | [P08 - Cashier](./Codeforces/basic/P08%20-%20Cashier) | [Codeforces](https://codeforces.com/group/yg7WhsFsAp/contest/355490/problem/P08) | basic | 16 Oct 2026 | 11:01 am |
