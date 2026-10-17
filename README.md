@@ -96,3 +96,4 @@
 | 94 | [F - Bus to Udayland](./Codeforces/basic/F%20-%20Bus%20to%20Udayland) | [Codeforces](https://codeforces.com/group/yg7WhsFsAp/contest/355508/problem/F) | basic | 16 Oct 2026 | 10:42 am |
 | 95 | [1059A - Cashier](./Codeforces/basic/1059A%20-%20Cashier) | [Codeforces](https://codeforces.com/problemset/problem/1059/A) | basic | 16 Oct 2026 | 11:01 am |
 | 96 | [P08 - Cashier](./Codeforces/basic/P08%20-%20Cashier) | [Codeforces](https://codeforces.com/group/yg7WhsFsAp/contest/355490/problem/P08) | basic | 16 Oct 2026 | 11:01 am |
+| 97 | [Apply Operations to an Array](./LeetCode/Easy/Apply%20Operations%20to%20an%20Array) | [LeetCode](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy | 17 Oct 2026 | 11:03 am |

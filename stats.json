@@ -1,11 +1,11 @@
 {
-  "totalSolved": 96,
-  "currentStreak": 5,
+  "totalSolved": 97,
+  "currentStreak": 6,
   "maxStreak": 8,
-  "lastSyncDate": "2026-10-16",
-  "todayCount": 3,
+  "lastSyncDate": "2026-10-17",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 10,
+    "easy": 11,
     "medium": 13,
     "hard": 1,
     "basic": 72
@@ -106,7 +106,8 @@
     "Codeforces_A_-_The_Special_Batch": true,
     "Codeforces_F_-_Bus_to_Udayland": true,
     "Codeforces_1059A_-_Cashier": true,
-    "Codeforces_P08_-_Cashier": true
+    "Codeforces_P08_-_Cashier": true,
+    "LeetCode_Apply_Operations_to_an_Array": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -147,11 +148,10 @@
     "2026-10-13": 4,
     "2026-10-14": 2,
     "2026-10-15": 3,
-    "2026-10-16": 3
+    "2026-10-16": 3,
+    "2026-10-17": 1
   },
   "todayProblems": [
-    "F - Bus to Udayland",
-    "1059A - Cashier",
-    "P08 - Cashier"
+    "Apply Operations to an Array"
   ]
 }
