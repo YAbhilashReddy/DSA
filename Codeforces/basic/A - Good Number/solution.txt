@@ -1,0 +1,26 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+void slove(){
+    int n;
+    char k;cin>>n>>k;
+    int count = 0;
+    while(n--){
+        string s;cin>>s;
+        bool r = true;
+        for(char c = '0' ; c <= k ; c++){
+            if(s.find(c) == string::npos) {r = false; break;}
+        }
+        count += r;
+    }
+    cout << count << '\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    slove();
+    
+  return 0;
+}
