@@ -1,11 +1,11 @@
 {
-  "totalSolved": 99,
-  "currentStreak": 8,
-  "maxStreak": 8,
-  "lastSyncDate": "2026-10-19",
+  "totalSolved": 100,
+  "currentStreak": 9,
+  "maxStreak": 9,
+  "lastSyncDate": "2026-10-20",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 12,
+    "easy": 13,
     "medium": 13,
     "hard": 1,
     "basic": 73
@@ -109,7 +109,8 @@
     "Codeforces_P08_-_Cashier": true,
     "LeetCode_Apply_Operations_to_an_Array": true,
     "Codeforces_A_-_Good_Number": true,
-    "LeetCode_Minimum_Average_of_Smallest_and_Largest_Elements": true
+    "LeetCode_Minimum_Average_of_Smallest_and_Largest_Elements": true,
+    "LeetCode_Baseball_Game": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -153,9 +154,10 @@
     "2026-10-16": 3,
     "2026-10-17": 1,
     "2026-10-18": 1,
-    "2026-10-19": 1
+    "2026-10-19": 1,
+    "2026-10-20": 1
   },
   "todayProblems": [
-    "Minimum Average of Smallest and Largest Elements"
+    "Baseball Game"
   ]
 }
