@@ -100,3 +100,4 @@
 | 98 | [A - Good Number](./Codeforces/basic/A%20-%20Good%20Number) | [Codeforces](https://codeforces.com/contest/365/problem/A) | basic | 18 Oct 2026 | 06:53 pm |
 | 99 | [Minimum Average of Smallest and Largest Elements](./LeetCode/Easy/Minimum%20Average%20of%20Smallest%20and%20Largest%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | Easy | 19 Oct 2026 | 06:13 am |
 | 100 | [Baseball Game](./LeetCode/Easy/Baseball%20Game) | [LeetCode](https://leetcode.com/problems/baseball-game/) | Easy | 20 Oct 2026 | 12:35 pm |
+| 101 | [Find the Largest Almost Missing Integer](./LeetCode/Easy/Find%20the%20Largest%20Almost%20Missing%20Integer) | [LeetCode](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Easy | 21 Oct 2026 | 08:17 am |
