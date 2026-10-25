@@ -101,3 +101,4 @@
 | 99 | [Minimum Average of Smallest and Largest Elements](./LeetCode/Easy/Minimum%20Average%20of%20Smallest%20and%20Largest%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | Easy | 19 Oct 2026 | 06:13 am |
 | 100 | [Baseball Game](./LeetCode/Easy/Baseball%20Game) | [LeetCode](https://leetcode.com/problems/baseball-game/) | Easy | 20 Oct 2026 | 12:35 pm |
 | 101 | [Find the Largest Almost Missing Integer](./LeetCode/Easy/Find%20the%20Largest%20Almost%20Missing%20Integer) | [LeetCode](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Easy | 21 Oct 2026 | 08:17 am |
+| 102 | [A - Binary Search](./Codeforces/basic/A%20-%20Binary%20Search) | [Codeforces](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/A) | basic | 25 Oct 2026 | 08:07 pm |

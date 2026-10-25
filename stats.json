@@ -1,14 +1,14 @@
 {
-  "totalSolved": 101,
-  "currentStreak": 10,
+  "totalSolved": 102,
+  "currentStreak": 1,
   "maxStreak": 10,
-  "lastSyncDate": "2026-10-21",
+  "lastSyncDate": "2026-10-25",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 14,
     "medium": 13,
     "hard": 1,
-    "basic": 73
+    "basic": 74
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -111,7 +111,8 @@
     "Codeforces_A_-_Good_Number": true,
     "LeetCode_Minimum_Average_of_Smallest_and_Largest_Elements": true,
     "LeetCode_Baseball_Game": true,
-    "LeetCode_Find_the_Largest_Almost_Missing_Integer": true
+    "LeetCode_Find_the_Largest_Almost_Missing_Integer": true,
+    "Codeforces_A_-_Binary_Search": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -157,9 +158,10 @@
     "2026-10-18": 1,
     "2026-10-19": 1,
     "2026-10-20": 1,
-    "2026-10-21": 1
+    "2026-10-21": 1,
+    "2026-10-25": 1
   },
   "todayProblems": [
-    "Find the Largest Almost Missing Integer"
+    "A - Binary Search"
   ]
 }
