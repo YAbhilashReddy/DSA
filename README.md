@@ -105,3 +105,4 @@
 | 103 | [132 Pattern](./LeetCode/Medium/132%20Pattern) | [LeetCode](https://leetcode.com/problems/132-pattern/) | Medium | 25 Oct 2026 | 10:31 pm |
 | 104 | [B - Closest to the Left](./Codeforces/basic/B%20-%20Closest%20to%20the%20Left) | [Codeforces](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B) | basic | 26 Oct 2026 | 12:38 pm |
 | 105 | [C - Closest to the Right](./Codeforces/basic/C%20-%20Closest%20to%20the%20Right) | [Codeforces](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/C) | basic | 26 Oct 2026 | 01:59 pm |
+| 106 | [D - Fast search](./Codeforces/basic/D%20-%20Fast%20search) | [Codeforces](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/D) | basic | 26 Oct 2026 | 02:06 pm |
