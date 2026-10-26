@@ -1,14 +1,14 @@
 {
-  "totalSolved": 104,
+  "totalSolved": 105,
   "currentStreak": 2,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 14,
     "medium": 14,
     "hard": 1,
-    "basic": 75
+    "basic": 76
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -114,7 +114,8 @@
     "LeetCode_Find_the_Largest_Almost_Missing_Integer": true,
     "Codeforces_A_-_Binary_Search": true,
     "LeetCode_132_Pattern": true,
-    "Codeforces_B_-_Closest_to_the_Left": true
+    "Codeforces_B_-_Closest_to_the_Left": true,
+    "Codeforces_C_-_Closest_to_the_Right": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -162,9 +163,10 @@
     "2026-10-20": 1,
     "2026-10-21": 1,
     "2026-10-25": 2,
-    "2026-10-26": 1
+    "2026-10-26": 2
   },
   "todayProblems": [
-    "B - Closest to the Left"
+    "B - Closest to the Left",
+    "C - Closest to the Right"
   ]
 }
