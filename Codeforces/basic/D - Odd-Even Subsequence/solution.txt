@@ -1,0 +1,45 @@
+#include<bits/stdc++.h>
+using namespace std;
+bool can_achieve(const vector<int>& a, int k, int x, int bounded_parity) {
+    int count = 0; 
+    
+    for (int i = 0; i < a.size(); ++i) {
+        if (count % 2 == bounded_parity) {
+            if (a[i] <= x) {
+                count++;
+            }
+        } else {
+            count++;
+        }
+    }
+    return count >= k;
+}
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    
+    int n, k;
+    cin>>n>>k;
+    vector<int> a(n);
+    for (int i = 0; i < n; ++i) {
+        cin>>a[i];
+    }
+    
+
+    int l = 1;
+    int r = INT_MAX;
+    int ans = INT_MAX;
+    
+    while (l <= r) {
+        int mid = l + (r - l) / 2;
+        if (can_achieve(a, k, mid, 0) || can_achieve(a, k, mid, 1)) {
+            ans = mid;     
+            r = mid - 1;   
+        } else {
+            l = mid + 1;
+        }
+    }
+    cout<<ans<<"\n";
+    return 0;
+}
