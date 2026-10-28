@@ -1,14 +1,14 @@
 {
-  "totalSolved": 106,
-  "currentStreak": 2,
+  "totalSolved": 107,
+  "currentStreak": 1,
   "maxStreak": 10,
-  "lastSyncDate": "2026-10-26",
-  "todayCount": 3,
+  "lastSyncDate": "2026-10-28",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 14,
     "medium": 14,
     "hard": 1,
-    "basic": 77
+    "basic": 78
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -116,7 +116,8 @@
     "LeetCode_132_Pattern": true,
     "Codeforces_B_-_Closest_to_the_Left": true,
     "Codeforces_C_-_Closest_to_the_Right": true,
-    "Codeforces_D_-_Fast_search": true
+    "Codeforces_D_-_Fast_search": true,
+    "Codeforces_E_-_Iva_Pav": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -164,11 +165,10 @@
     "2026-10-20": 1,
     "2026-10-21": 1,
     "2026-10-25": 2,
-    "2026-10-26": 3
+    "2026-10-26": 3,
+    "2026-10-28": 1
   },
   "todayProblems": [
-    "B - Closest to the Left",
-    "C - Closest to the Right",
-    "D - Fast search"
+    "E - Iva  Pav"
   ]
 }

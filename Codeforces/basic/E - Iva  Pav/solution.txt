@@ -1,0 +1,57 @@
+#include<bits/stdc++.h>
+using namespace std;
+bool check(int l,int r,int k,vector<vector<int>>& prefixSum){
+    int len=r-l+1;
+    int ans=0;
+        for(int i=0;i<31;i++){
+            int count = (l>0?prefixSum[i][r]-prefixSum[i][l-1]:prefixSum[i][r]);
+            if(count==len){
+                ans+=(1<<i);
+            }
+        }
+        return ans>=k;
+    }
+void solve(){
+    int n;
+    cin>>n;
+    vector<int> arr(n);
+    for(int i=0;i<n;i++) cin>>arr[i];
+    int q;
+    cin>>q;
+    vector<vector<int>> prefixSum(31,vector<int>(n,0));
+    
+    for(int i=0;i<31;i++){
+        for(int j=0;j<n;j++){
+            prefixSum[i][j]=(j>0?prefixSum[i][j-1]:0)+(((arr[j]&(1<<i))!=0)?1:0);
+        }
+    }
+    while(q--){
+        int l,k;
+        cin>>l>>k;
+        int low = l-1;
+        int high=n-1;
+        int ans=-1;
+        while(low<=high){
+            int mid=(low+high)/2;
+            if(check(l-1,mid,k,prefixSum)){
+                ans=mid+1;
+                low=mid+1;
+            }else{
+                high=mid-1;
+            }
+        }
+        cout<<ans<<' ';
+    }
+    cout<<'\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+  int T;
+  cin>>T;
+  while(T--){
+      solve();
+  }
+  return 0;
+}

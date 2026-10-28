@@ -106,3 +106,4 @@
 | 104 | [B - Closest to the Left](./Codeforces/basic/B%20-%20Closest%20to%20the%20Left) | [Codeforces](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B) | basic | 26 Oct 2026 | 12:38 pm |
 | 105 | [C - Closest to the Right](./Codeforces/basic/C%20-%20Closest%20to%20the%20Right) | [Codeforces](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/C) | basic | 26 Oct 2026 | 01:59 pm |
 | 106 | [D - Fast search](./Codeforces/basic/D%20-%20Fast%20search) | [Codeforces](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/D) | basic | 26 Oct 2026 | 02:06 pm |
+| 107 | [E - Iva  Pav](./Codeforces/basic/E%20-%20Iva%20%20Pav) | [Codeforces](https://codeforces.com/contest/1878/problem/E) | basic | 28 Oct 2026 | 02:44 pm |
