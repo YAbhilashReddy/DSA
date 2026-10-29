@@ -110,3 +110,4 @@
 | 108 | [D - Odd-Even Subsequence](./Codeforces/basic/D%20-%20Odd-Even%20Subsequence) | [Codeforces](https://codeforces.com/contest/1370/problem/D) | basic | 28 Oct 2026 | 04:02 pm |
 | 109 | [A - Worms](./Codeforces/basic/A%20-%20Worms) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/728535/problem/A) | basic | 29 Oct 2026 | 02:54 pm |
 | 110 | [B - Maximum Median](./Codeforces/basic/B%20-%20Maximum%20Median) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/728535/problem/B) | basic | 29 Oct 2026 | 04:08 pm |
+| 111 | [C - Maximum Median](./Codeforces/basic/C%20-%20Maximum%20Median) | [Codeforces](https://codeforces.com/contest/1201/problem/C) | basic | 29 Oct 2026 | 04:08 pm |
