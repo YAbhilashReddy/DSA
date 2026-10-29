@@ -108,3 +108,4 @@
 | 106 | [D - Fast search](./Codeforces/basic/D%20-%20Fast%20search) | [Codeforces](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/D) | basic | 26 Oct 2026 | 02:06 pm |
 | 107 | [E - Iva  Pav](./Codeforces/basic/E%20-%20Iva%20%20Pav) | [Codeforces](https://codeforces.com/contest/1878/problem/E) | basic | 28 Oct 2026 | 02:44 pm |
 | 108 | [D - Odd-Even Subsequence](./Codeforces/basic/D%20-%20Odd-Even%20Subsequence) | [Codeforces](https://codeforces.com/contest/1370/problem/D) | basic | 28 Oct 2026 | 04:02 pm |
+| 109 | [A - Worms](./Codeforces/basic/A%20-%20Worms) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/728535/problem/A) | basic | 29 Oct 2026 | 02:54 pm |
