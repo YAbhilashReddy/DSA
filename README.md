@@ -109,3 +109,4 @@
 | 107 | [E - Iva  Pav](./Codeforces/basic/E%20-%20Iva%20%20Pav) | [Codeforces](https://codeforces.com/contest/1878/problem/E) | basic | 28 Oct 2026 | 02:44 pm |
 | 108 | [D - Odd-Even Subsequence](./Codeforces/basic/D%20-%20Odd-Even%20Subsequence) | [Codeforces](https://codeforces.com/contest/1370/problem/D) | basic | 28 Oct 2026 | 04:02 pm |
 | 109 | [A - Worms](./Codeforces/basic/A%20-%20Worms) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/728535/problem/A) | basic | 29 Oct 2026 | 02:54 pm |
+| 110 | [B - Maximum Median](./Codeforces/basic/B%20-%20Maximum%20Median) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/728535/problem/B) | basic | 29 Oct 2026 | 04:08 pm |

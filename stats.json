@@ -1,14 +1,14 @@
 {
-  "totalSolved": 109,
+  "totalSolved": 110,
   "currentStreak": 2,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 14,
     "medium": 14,
     "hard": 1,
-    "basic": 80
+    "basic": 81
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -119,7 +119,8 @@
     "Codeforces_D_-_Fast_search": true,
     "Codeforces_E_-_Iva_Pav": true,
     "Codeforces_D_-_Odd-Even_Subsequence": true,
-    "Codeforces_A_-_Worms": true
+    "Codeforces_A_-_Worms": true,
+    "Codeforces_B_-_Maximum_Median": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -169,9 +170,10 @@
     "2026-10-25": 2,
     "2026-10-26": 3,
     "2026-10-28": 2,
-    "2026-10-29": 1
+    "2026-10-29": 2
   },
   "todayProblems": [
-    "A - Worms"
+    "A - Worms",
+    "B - Maximum Median"
   ]
 }
