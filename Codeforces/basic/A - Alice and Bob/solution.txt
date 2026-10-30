@@ -1,0 +1,26 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void slove(){
+    int n,a;cin>>n>>a;
+    int below = 0 , above = 0;
+    for(int i=0 ; i<n ; i++){
+        int x;cin>>x;
+        below += (x < a) , above += (x > a);
+    }
+    cout << (above > below ? a+1 : a-1) << '\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    int t = 1;
+    cin>>t;
+    
+    while(t--) {
+        slove();
+    }
+    
+  return 0;
+}
