@@ -113,3 +113,4 @@
 | 111 | [C - Maximum Median](./Codeforces/basic/C%20-%20Maximum%20Median) | [Codeforces](https://codeforces.com/contest/1201/problem/C) | basic | 29 Oct 2026 | 04:08 pm |
 | 112 | [A - Alice and Bob](./Codeforces/basic/A%20-%20Alice%20and%20Bob) | [Codeforces](https://codeforces.com/contest/2169/problem/A) | basic | 30 Oct 2026 | 02:25 pm |
 | 113 | [Count Integers Appearing in a Single Block](./LeetCode/Easy/Count%20Integers%20Appearing%20in%20a%20Single%20Block) | [LeetCode](https://leetcode.com/problems/count-integers-appearing-in-a-single-block/) | Easy | 30 Oct 2026 | 07:35 pm |
+| 114 | [B - Stakes and Shapes](./Codeforces/basic/B%20-%20Stakes%20and%20Shapes) | [Codeforces](https://codeforces.com/contest/2278/problem/B) | basic | 31 Oct 2026 | 08:56 pm |

@@ -1,0 +1,26 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    int r,s,p;cin>>r>>s>>p;
+    string ans = "";
+    int total = r + s + p;
+    if(r >= s && r >= p) ans = string(total , 'P');
+    else if(s >= r && s >= p) ans = string(total , 'R');
+    else ans = string(total , 'S');
+    cout << ans << '\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    int t = 1;
+    cin>>t;
+    
+    while(t--) {
+        solve();
+    }
+    
+  return 0;
+}
