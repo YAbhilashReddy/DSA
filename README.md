@@ -115,3 +115,4 @@
 | 113 | [Count Integers Appearing in a Single Block](./LeetCode/Easy/Count%20Integers%20Appearing%20in%20a%20Single%20Block) | [LeetCode](https://leetcode.com/problems/count-integers-appearing-in-a-single-block/) | Easy | 30 Oct 2026 | 07:35 pm |
 | 114 | [B - Stakes and Shapes](./Codeforces/basic/B%20-%20Stakes%20and%20Shapes) | [Codeforces](https://codeforces.com/contest/2278/problem/B) | basic | 31 Oct 2026 | 08:56 pm |
 | 115 | [A - Noldbach problem](./Codeforces/basic/A%20-%20Noldbach%20problem) | [Codeforces](https://codeforces.com/contest/17/problem/A) | basic | 02 Nov 2026 | 06:43 pm |
+| 116 | [742A - Arpas hard exam and Mehrdads naive cheat](./Codeforces/basic/742A%20-%20Arpas%20hard%20exam%20and%20Mehrdads%20naive%20cheat) | [Codeforces](https://codeforces.com/problemset/problem/742/A) | basic | 03 Nov 2026 | 03:11 pm |
