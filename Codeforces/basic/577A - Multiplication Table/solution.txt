@@ -1,0 +1,21 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    int n,x;cin>>n>>x;
+    int c = 0;
+    for(int i = 1 ; i <= n ; i++){
+        bool check = (x % i == 0) && (1LL * x <= 1LL * i * n);
+        c += (check);
+    }
+    cout << c << '\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    solve();
+    
+  return 0;
+}
