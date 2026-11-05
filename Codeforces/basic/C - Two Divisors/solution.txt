@@ -1,0 +1,21 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    long long a,b;cin>>a>>b;
+    cout << (b % a == 0 ? 1LL * b * (b/a) : 1LL * (a * b) / __gcd(a,b)) << '\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    int t = 1;
+    cin>>t;
+    
+    while(t--) {
+        solve();
+    }
+    
+  return 0;
+}

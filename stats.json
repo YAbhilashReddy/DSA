@@ -1,14 +1,14 @@
 {
-  "totalSolved": 121,
+  "totalSolved": 122,
   "currentStreak": 4,
   "maxStreak": 10,
   "lastSyncDate": "2026-11-05",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 15,
     "medium": 14,
     "hard": 1,
-    "basic": 91
+    "basic": 92
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -131,7 +131,8 @@
     "Codeforces_A_-_Almost_Prime": true,
     "Codeforces_776B_-_Sherlock_and_his_girlfriend": true,
     "Codeforces_B_-_Sherlock_and_his_girlfriend": true,
-    "Codeforces_1916B_-_Two_Divisors": true
+    "Codeforces_1916B_-_Two_Divisors": true,
+    "Codeforces_C_-_Two_Divisors": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -187,12 +188,13 @@
     "2026-11-02": 1,
     "2026-11-03": 1,
     "2026-11-04": 1,
-    "2026-11-05": 4
+    "2026-11-05": 5
   },
   "todayProblems": [
     "A - Almost Prime",
     "776B - Sherlock and his girlfriend",
     "B - Sherlock and his girlfriend",
-    "1916B - Two Divisors"
+    "1916B - Two Divisors",
+    "C - Two Divisors"
   ]
 }
