@@ -117,3 +117,4 @@
 | 115 | [A - Noldbach problem](./Codeforces/basic/A%20-%20Noldbach%20problem) | [Codeforces](https://codeforces.com/contest/17/problem/A) | basic | 02 Nov 2026 | 06:43 pm |
 | 116 | [742A - Arpas hard exam and Mehrdads naive cheat](./Codeforces/basic/742A%20-%20Arpas%20hard%20exam%20and%20Mehrdads%20naive%20cheat) | [Codeforces](https://codeforces.com/problemset/problem/742/A) | basic | 03 Nov 2026 | 03:11 pm |
 | 117 | [577A - Multiplication Table](./Codeforces/basic/577A%20-%20Multiplication%20Table) | [Codeforces](https://codeforces.com/problemset/problem/577/A) | basic | 04 Nov 2026 | 02:07 pm |
+| 118 | [A - Almost Prime](./Codeforces/basic/A%20-%20Almost%20Prime) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/730357/problem/A) | basic | 05 Nov 2026 | 02:39 pm |
