@@ -119,3 +119,4 @@
 | 117 | [577A - Multiplication Table](./Codeforces/basic/577A%20-%20Multiplication%20Table) | [Codeforces](https://codeforces.com/problemset/problem/577/A) | basic | 04 Nov 2026 | 02:07 pm |
 | 118 | [A - Almost Prime](./Codeforces/basic/A%20-%20Almost%20Prime) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/730357/problem/A) | basic | 05 Nov 2026 | 02:39 pm |
 | 119 | [776B - Sherlock and his girlfriend](./Codeforces/basic/776B%20-%20Sherlock%20and%20his%20girlfriend) | [Codeforces](https://codeforces.com/problemset/problem/776/B) | basic | 05 Nov 2026 | 03:22 pm |
+| 120 | [B - Sherlock and his girlfriend](./Codeforces/basic/B%20-%20Sherlock%20and%20his%20girlfriend) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/730357/problem/B) | basic | 05 Nov 2026 | 03:23 pm |
