@@ -1,11 +1,11 @@
 {
-  "totalSolved": 122,
+  "totalSolved": 123,
   "currentStreak": 4,
   "maxStreak": 10,
   "lastSyncDate": "2026-11-05",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 15,
+    "easy": 16,
     "medium": 14,
     "hard": 1,
     "basic": 92
@@ -132,7 +132,8 @@
     "Codeforces_776B_-_Sherlock_and_his_girlfriend": true,
     "Codeforces_B_-_Sherlock_and_his_girlfriend": true,
     "Codeforces_1916B_-_Two_Divisors": true,
-    "Codeforces_C_-_Two_Divisors": true
+    "Codeforces_C_-_Two_Divisors": true,
+    "LeetCode_Find_the_Distance_Value_Between_Two_Arrays": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -188,13 +189,14 @@
     "2026-11-02": 1,
     "2026-11-03": 1,
     "2026-11-04": 1,
-    "2026-11-05": 5
+    "2026-11-05": 6
   },
   "todayProblems": [
     "A - Almost Prime",
     "776B - Sherlock and his girlfriend",
     "B - Sherlock and his girlfriend",
     "1916B - Two Divisors",
-    "C - Two Divisors"
+    "C - Two Divisors",
+    "Find the Distance Value Between Two Arrays"
   ]
 }
