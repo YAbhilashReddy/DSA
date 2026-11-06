@@ -9,16 +9,12 @@ public:
     }
 
     int diagonalPrime(vector<vector<int>>& nums) {
-        vector<int> possibleNums;
         int n = nums.size() , j = n-1;
-        for(int i = 0 ; i < n ; i++){
-            possibleNums.push_back(nums[i][i]);
-            if(i != j) possibleNums.push_back(nums[i][j]);
-            j--;
-        }
         int prime = 0;
-        for(int i:possibleNums) {
-            if(checkPrime(i)) prime = max(prime , i);
+        for(int i = 0 ; i < n ; i++){
+            if(checkPrime(nums[i][i])) prime = max(prime , nums[i][i]);
+            if(i != j && checkPrime(nums[i][j])) prime = max(prime , nums[i][j]);
+            j--;
         }
         return prime;
     }
