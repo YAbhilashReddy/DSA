@@ -1,14 +1,14 @@
 {
-  "totalSolved": 124,
-  "currentStreak": 4,
+  "totalSolved": 125,
+  "currentStreak": 5,
   "maxStreak": 10,
-  "lastSyncDate": "2026-11-05",
-  "todayCount": 7,
+  "lastSyncDate": "2026-11-06",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 16,
     "medium": 14,
     "hard": 1,
-    "basic": 93
+    "basic": 94
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -134,7 +134,8 @@
     "Codeforces_1916B_-_Two_Divisors": true,
     "Codeforces_C_-_Two_Divisors": true,
     "LeetCode_Find_the_Distance_Value_Between_Two_Arrays": true,
-    "Codeforces_C_-_Math_and_Physics": true
+    "Codeforces_C_-_Math_and_Physics": true,
+    "Codeforces_A_-_Add_and_Divide": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -190,15 +191,10 @@
     "2026-11-02": 1,
     "2026-11-03": 1,
     "2026-11-04": 1,
-    "2026-11-05": 7
+    "2026-11-05": 7,
+    "2026-11-06": 1
   },
   "todayProblems": [
-    "A - Almost Prime",
-    "776B - Sherlock and his girlfriend",
-    "B - Sherlock and his girlfriend",
-    "1916B - Two Divisors",
-    "C - Two Divisors",
-    "Find the Distance Value Between Two Arrays",
-    "C - Math and Physics"
+    "A - Add and Divide"
   ]
 }

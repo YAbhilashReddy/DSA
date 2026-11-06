@@ -124,3 +124,4 @@
 | 122 | [C - Two Divisors](./Codeforces/basic/C%20-%20Two%20Divisors) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/730357/problem/C) | basic | 05 Nov 2026 | 04:08 pm |
 | 123 | [Find the Distance Value Between Two Arrays](./LeetCode/Easy/Find%20the%20Distance%20Value%20Between%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy | 05 Nov 2026 | 05:29 pm |
 | 124 | [C - Math and Physics](./Codeforces/basic/C%20-%20Math%20and%20Physics) | [Codeforces](https://codeforces.com/contest/2278/problem/C) | basic | 05 Nov 2026 | 11:15 pm |
+| 125 | [A - Add and Divide](./Codeforces/basic/A%20-%20Add%20and%20Divide) | [Codeforces](https://codeforces.com/contest/1485/problem/A) | basic | 06 Nov 2026 | 02:14 pm |
