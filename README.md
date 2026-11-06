@@ -125,3 +125,4 @@
 | 123 | [Find the Distance Value Between Two Arrays](./LeetCode/Easy/Find%20the%20Distance%20Value%20Between%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy | 05 Nov 2026 | 05:29 pm |
 | 124 | [C - Math and Physics](./Codeforces/basic/C%20-%20Math%20and%20Physics) | [Codeforces](https://codeforces.com/contest/2278/problem/C) | basic | 05 Nov 2026 | 11:15 pm |
 | 125 | [A - Add and Divide](./Codeforces/basic/A%20-%20Add%20and%20Divide) | [Codeforces](https://codeforces.com/contest/1485/problem/A) | basic | 06 Nov 2026 | 02:14 pm |
+| 126 | [A - BerOS file system](./Codeforces/basic/A%20-%20BerOS%20file%20system) | [Codeforces](https://codeforces.com/contest/20/problem/A) | basic | 06 Nov 2026 | 11:13 pm |

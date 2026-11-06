@@ -1,0 +1,23 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    string s;cin>>s;
+    string ans = "";
+    for(char c:s){
+        if(ans.empty()) ans.push_back(c);
+        else if(ans.back() == '/' && c == '/') continue;
+        else ans.push_back(c);
+    }
+    if(ans.back() == '/' && ans.length() > 1) ans.pop_back();
+    cout << ans << '\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    solve();
+    
+  return 0;
+}
