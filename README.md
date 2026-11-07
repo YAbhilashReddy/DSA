@@ -128,3 +128,4 @@
 | 126 | [A - BerOS file system](./Codeforces/basic/A%20-%20BerOS%20file%20system) | [Codeforces](https://codeforces.com/contest/20/problem/A) | basic | 06 Nov 2026 | 11:13 pm |
 | 127 | [2140B - Another Divisibility Problem](./Codeforces/basic/2140B%20-%20Another%20Divisibility%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/2140/B) | basic | 07 Nov 2026 | 10:15 am |
 | 128 | [2093C - Simple Repetition](./Codeforces/basic/2093C%20-%20Simple%20Repetition) | [Codeforces](https://codeforces.com/problemset/problem/2093/C) | basic | 07 Nov 2026 | 12:00 pm |
+| 129 | [Check If Digits Are Equal in String After Operations I](./LeetCode/Easy/Check%20If%20Digits%20Are%20Equal%20in%20String%20After%20Operations%20I) | [LeetCode](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | Easy | 07 Nov 2026 | 08:15 pm |
