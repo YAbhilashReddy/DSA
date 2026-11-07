@@ -1,0 +1,33 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+bool checkPrime(long long n){
+    if(n < 2) return false;
+    for(int i =  2 ; i * i <= n ; i++){
+        if(n % i == 0) return false;
+    }
+    return true;
+}
+
+void solve(){
+    int x,k;cin>>x>>k;
+    string ans;
+    if(x > 1 && k > 1) ans =  "NO";
+    else if(k == 1) ans = (checkPrime(x) ? "YES" : "NO");
+    else ans = (x == 1 && k == 2 ? "YES" : "NO");
+    cout << ans << '\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    int t = 1;
+    cin>>t;
+    
+    while(t--) {
+        solve();
+    }
+    
+  return 0;
+}

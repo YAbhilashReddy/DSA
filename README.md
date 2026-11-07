@@ -127,3 +127,4 @@
 | 125 | [A - Add and Divide](./Codeforces/basic/A%20-%20Add%20and%20Divide) | [Codeforces](https://codeforces.com/contest/1485/problem/A) | basic | 06 Nov 2026 | 02:14 pm |
 | 126 | [A - BerOS file system](./Codeforces/basic/A%20-%20BerOS%20file%20system) | [Codeforces](https://codeforces.com/contest/20/problem/A) | basic | 06 Nov 2026 | 11:13 pm |
 | 127 | [2140B - Another Divisibility Problem](./Codeforces/basic/2140B%20-%20Another%20Divisibility%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/2140/B) | basic | 07 Nov 2026 | 10:15 am |
+| 128 | [2093C - Simple Repetition](./Codeforces/basic/2093C%20-%20Simple%20Repetition) | [Codeforces](https://codeforces.com/problemset/problem/2093/C) | basic | 07 Nov 2026 | 12:00 pm |
