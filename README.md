@@ -130,3 +130,4 @@
 | 128 | [2093C - Simple Repetition](./Codeforces/basic/2093C%20-%20Simple%20Repetition) | [Codeforces](https://codeforces.com/problemset/problem/2093/C) | basic | 07 Nov 2026 | 12:00 pm |
 | 129 | [Check If Digits Are Equal in String After Operations I](./LeetCode/Easy/Check%20If%20Digits%20Are%20Equal%20in%20String%20After%20Operations%20I) | [LeetCode](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | Easy | 07 Nov 2026 | 08:15 pm |
 | 130 | [Find Mismatched Segments Between Two Strings](./LeetCode/Medium/Find%20Mismatched%20Segments%20Between%20Two%20Strings) | [LeetCode](https://leetcode.com/problems/find-mismatched-segments-between-two-strings/) | Medium | 08 Nov 2026 | 12:50 pm |
+| 131 | [1553A - Digits Sum](./Codeforces/basic/1553A%20-%20Digits%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/1553/A) | basic | 08 Nov 2026 | 01:01 pm |
