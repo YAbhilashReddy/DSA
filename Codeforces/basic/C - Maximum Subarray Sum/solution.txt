@@ -1,0 +1,110 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+void solve() {
+
+    /*
+    --------------------------------
+    THOUGHTS
+    
+    0 ----- 0 ------ 0
+    --------------------------------
+
+    Observations:
+    0. consider k = 10 and a = {10, 0, 10, 0, 10};
+       eventhough the max subarray sum is > k we can replace 0's with some -ve and get max_s == k
+       so we have to consider the max subarray sum's between two unknown positions
+       
+    1. if the max subarray sum is greater than k then it is no 
+       if max s == k then we will return the same input array 
+       if max s < k then we can replace 0's with some nums
+
+    2. let p be the pos of unknown (s[i] == '0) calculate max suffix sum starting with p
+       and calculate the max prefix sum ending with p, now replace a[p] with k - R - L;
+
+    3. 
+
+
+    */
+
+
+    ll n, k;
+    cin >> n >> k;
+    string s;
+    cin >> s;
+    vector<ll> a(n);
+    for(int i = 0; i<n; i++){
+        cin >> a[i];
+    }
+    for(int i = 0; i<n; i++){
+        if(s[i] == '0'){
+            a[i] = -1e18;
+        }
+    }
+    ll mx = 0;
+    ll su = 0;
+    for(int i = 0; i<n; i++){
+        su += a[i];
+        if(su < 0){
+            su = 0;
+        }
+        mx = max(mx, su);
+    }
+    if(mx > k){
+        cout << "no" << endl;
+        return;
+    }
+    if(mx == k){
+        cout << "yes" << endl;
+        for(ll x : a){
+            cout << x << " ";
+        }
+        cout << endl;
+        return;
+    }
+    int p = -1;
+    for(int i = 0; i<n; i++){
+        if(s[i] == '0'){
+            p = i;
+            break;
+        }
+    }
+    if(p == -1){
+        cout << "no" << endl;
+        return;
+    }
+    ll l = 0, r = 0;
+    ll sum = 0;
+    for(int i = p + 1; i<n && s[i] == '1'; i++){
+        sum += a[i];
+        r = max(r, sum);
+    }
+    sum = 0;
+    for(int i = p - 1; i>=0 && s[i] == '1'; i--){
+        sum += a[i];
+        l = max(l, sum);
+    }
+    a[p] = k - l - r;
+    cout << "yes" << endl;
+    for(auto x : a){
+        cout << x << " ";
+    }
+    cout << endl;
+
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t;
+    cin >> t;
+
+    while (t--) {
+        solve();
+    }
+
+    return 0;
+}

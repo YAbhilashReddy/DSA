@@ -134,3 +134,4 @@
 | 132 | [2000B - Seating in a Bus](./Codeforces/basic/2000B%20-%20Seating%20in%20a%20Bus) | [Codeforces](https://codeforces.com/problemset/problem/2000/B) | basic | 09 Nov 2026 | 06:30 pm |
 | 133 | [E - Min Max MEX](./Codeforces/basic/E%20-%20Min%20Max%20MEX) | [Codeforces](https://codeforces.com/contest/2093/problem/E) | basic | 10 Nov 2026 | 07:12 pm |
 | 134 | [D - Flower Boy](./Codeforces/basic/D%20-%20Flower%20Boy) | [Codeforces](https://codeforces.com/contest/2106/problem/D) | basic | 10 Nov 2026 | 07:12 pm |
+| 135 | [C - Maximum Subarray Sum](./Codeforces/basic/C%20-%20Maximum%20Subarray%20Sum) | [Codeforces](https://codeforces.com/contest/2107/problem/C) | basic | 10 Nov 2026 | 07:12 pm |

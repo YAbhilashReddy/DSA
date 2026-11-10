@@ -1,14 +1,14 @@
 {
-  "totalSolved": 134,
+  "totalSolved": 135,
   "currentStreak": 9,
   "maxStreak": 10,
   "lastSyncDate": "2026-11-10",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 17,
     "medium": 15,
     "hard": 1,
-    "basic": 101
+    "basic": 102
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -144,7 +144,8 @@
     "Codeforces_1553A_-_Digits_Sum": true,
     "Codeforces_2000B_-_Seating_in_a_Bus": true,
     "Codeforces_E_-_Min_Max_MEX": true,
-    "Codeforces_D_-_Flower_Boy": true
+    "Codeforces_D_-_Flower_Boy": true,
+    "Codeforces_C_-_Maximum_Subarray_Sum": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -205,10 +206,11 @@
     "2026-11-07": 3,
     "2026-11-08": 2,
     "2026-11-09": 1,
-    "2026-11-10": 2
+    "2026-11-10": 3
   },
   "todayProblems": [
     "E - Min Max MEX",
-    "D - Flower Boy"
+    "D - Flower Boy",
+    "C - Maximum Subarray Sum"
   ]
 }
