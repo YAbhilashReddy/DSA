@@ -1,0 +1,84 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+bool possible(vector<int> &a, int mid, int k){
+    int seg = 0;
+    int n = a.size();
+    vector<int> freq(mid, 0);
+    int count = 0;
+    for(int i = 0; i<n; i++){
+        if(a[i] < mid && freq[a[i]] == 0){
+            freq[a[i]]++;
+            count++;
+        }
+        if(count == mid){
+            seg++;
+            for(int &x : freq){
+                x = 0;
+            }
+            count = 0;
+        }
+    }
+    return seg >= k;
+}
+
+
+
+
+
+void solve() {
+
+    /*
+    --------------------------------
+    THOUGHTS
+    --------------------------------
+
+    Observations:
+    1. 
+
+    2.
+
+    3.
+
+
+    */
+
+
+    int n, k;
+    cin >> n >> k;
+
+    vector<int> a(n);
+    for (int &x : a) {
+        cin >> x;
+    }
+    int low = 0;
+    int high = n;
+    int ans = 0;
+    while(low <= high){
+        int mid = low + (high - low)/2;
+        if(possible(a, mid, k)){
+            ans = mid;
+            low = mid + 1;
+        }else{
+            high = mid - 1;
+        }
+    }
+    cout << ans << endl;
+
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t;
+    cin >> t;
+
+    while (t--) {
+        solve();
+    }
+
+    return 0;
+}

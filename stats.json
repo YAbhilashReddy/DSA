@@ -1,14 +1,14 @@
 {
-  "totalSolved": 132,
-  "currentStreak": 8,
+  "totalSolved": 133,
+  "currentStreak": 9,
   "maxStreak": 10,
-  "lastSyncDate": "2026-11-09",
+  "lastSyncDate": "2026-11-10",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 17,
     "medium": 15,
     "hard": 1,
-    "basic": 99
+    "basic": 100
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -142,7 +142,8 @@
     "LeetCode_Check_If_Digits_Are_Equal_in_String_After_Operations_I": true,
     "LeetCode_Find_Mismatched_Segments_Between_Two_Strings": true,
     "Codeforces_1553A_-_Digits_Sum": true,
-    "Codeforces_2000B_-_Seating_in_a_Bus": true
+    "Codeforces_2000B_-_Seating_in_a_Bus": true,
+    "Codeforces_E_-_Min_Max_MEX": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -202,9 +203,10 @@
     "2026-11-06": 2,
     "2026-11-07": 3,
     "2026-11-08": 2,
-    "2026-11-09": 1
+    "2026-11-09": 1,
+    "2026-11-10": 1
   },
   "todayProblems": [
-    "2000B - Seating in a Bus"
+    "E - Min Max MEX"
   ]
 }
