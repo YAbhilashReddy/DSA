@@ -1,0 +1,24 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    string s;cin>>s;
+    int c = 0;
+    string t = s;
+    while(t.length() >= 2){
+        c++;
+        int sum = 0;
+        for(char c : t) sum += c - '0';
+        t = to_string(sum);
+    }
+    cout << c << '\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    solve();
+    
+  return 0;
+}
