@@ -1,0 +1,33 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    int n;cin>>n;
+    vector<int> two , three , six , others;
+    for(int i = 0 ; i < n ; i++) {
+        int x;cin>>x;
+        if(x % 6 == 0) six.push_back(x);
+        else if(x % 2 == 0) two.push_back(x);
+        else if(x % 3 == 0) three.push_back(x);
+        else others.push_back(x);
+    }
+    for(int i : two) cout << i << ' ';
+    for(int i : others) cout << i << ' ';
+    for(int i : three) cout << i << ' ';
+    for(int i : six) cout << i << ' ';
+    cout << '\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    int t = 1;
+    cin>>t;
+    
+    while(t--) {
+        solve();
+    }
+    
+  return 0;
+}

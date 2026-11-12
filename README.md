@@ -136,3 +136,4 @@
 | 134 | [D - Flower Boy](./Codeforces/basic/D%20-%20Flower%20Boy) | [Codeforces](https://codeforces.com/contest/2106/problem/D) | basic | 10 Nov 2026 | 07:12 pm |
 | 135 | [C - Maximum Subarray Sum](./Codeforces/basic/C%20-%20Maximum%20Subarray%20Sum) | [Codeforces](https://codeforces.com/contest/2107/problem/C) | basic | 10 Nov 2026 | 07:12 pm |
 | 136 | [102B - Sum of Digits](./Codeforces/basic/102B%20-%20Sum%20of%20Digits) | [Codeforces](https://codeforces.com/problemset/problem/102/B) | basic | 11 Nov 2026 | 11:18 pm |
+| 137 | [B - Snowfall](./Codeforces/basic/B%20-%20Snowfall) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/731904/problem/B) | basic | 12 Nov 2026 | 03:10 pm |
