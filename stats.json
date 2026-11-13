@@ -1,11 +1,11 @@
 {
-  "totalSolved": 139,
+  "totalSolved": 140,
   "currentStreak": 12,
   "maxStreak": 12,
   "lastSyncDate": "2026-11-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 19,
+    "easy": 20,
     "medium": 15,
     "hard": 1,
     "basic": 104
@@ -149,7 +149,8 @@
     "Codeforces_102B_-_Sum_of_Digits": true,
     "Codeforces_B_-_Snowfall": true,
     "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true,
-    "LeetCode_Display_the_First_Three_Rows": true
+    "LeetCode_Display_the_First_Three_Rows": true,
+    "LeetCode_Modify_Columns": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -213,9 +214,10 @@
     "2026-11-10": 3,
     "2026-11-11": 1,
     "2026-11-12": 2,
-    "2026-11-13": 1
+    "2026-11-13": 2
   },
   "todayProblems": [
-    "Display the First Three Rows"
+    "Display the First Three Rows",
+    "Modify Columns"
   ]
 }
