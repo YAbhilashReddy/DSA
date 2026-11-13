@@ -140,3 +140,4 @@
 | 138 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./LeetCode/Easy/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) | [LeetCode](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | 12 Nov 2026 | 06:09 pm |
 | 139 | [Display the First Three Rows](./LeetCode/Easy/Display%20the%20First%20Three%20Rows) | [LeetCode](https://leetcode.com/problems/display-the-first-three-rows/) | Easy | 13 Nov 2026 | 05:55 pm |
 | 140 | [Modify Columns](./LeetCode/Easy/Modify%20Columns) | [LeetCode](https://leetcode.com/problems/modify-columns/) | Easy | 13 Nov 2026 | 06:12 pm |
+| 141 | [Restore Finishing Order](./LeetCode/Easy/Restore%20Finishing%20Order) | [LeetCode](https://leetcode.com/problems/restore-finishing-order/) | Easy | 13 Nov 2026 | 06:23 pm |
