@@ -1,11 +1,11 @@
 {
-  "totalSolved": 138,
-  "currentStreak": 11,
-  "maxStreak": 11,
-  "lastSyncDate": "2026-11-12",
-  "todayCount": 2,
+  "totalSolved": 139,
+  "currentStreak": 12,
+  "maxStreak": 12,
+  "lastSyncDate": "2026-11-13",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 18,
+    "easy": 19,
     "medium": 15,
     "hard": 1,
     "basic": 104
@@ -148,7 +148,8 @@
     "Codeforces_C_-_Maximum_Subarray_Sum": true,
     "Codeforces_102B_-_Sum_of_Digits": true,
     "Codeforces_B_-_Snowfall": true,
-    "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true
+    "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true,
+    "LeetCode_Display_the_First_Three_Rows": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -211,10 +212,10 @@
     "2026-11-09": 1,
     "2026-11-10": 3,
     "2026-11-11": 1,
-    "2026-11-12": 2
+    "2026-11-12": 2,
+    "2026-11-13": 1
   },
   "todayProblems": [
-    "B - Snowfall",
-    "Longest Strictly Increasing or Strictly Decreasing Subarray"
+    "Display the First Three Rows"
   ]
 }

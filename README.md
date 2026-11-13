@@ -138,3 +138,4 @@
 | 136 | [102B - Sum of Digits](./Codeforces/basic/102B%20-%20Sum%20of%20Digits) | [Codeforces](https://codeforces.com/problemset/problem/102/B) | basic | 11 Nov 2026 | 11:18 pm |
 | 137 | [B - Snowfall](./Codeforces/basic/B%20-%20Snowfall) | [Codeforces](https://codeforces.com/group/vP4zGe21UV/contest/731904/problem/B) | basic | 12 Nov 2026 | 03:10 pm |
 | 138 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./LeetCode/Easy/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) | [LeetCode](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | 12 Nov 2026 | 06:09 pm |
+| 139 | [Display the First Three Rows](./LeetCode/Easy/Display%20the%20First%20Three%20Rows) | [LeetCode](https://leetcode.com/problems/display-the-first-three-rows/) | Easy | 13 Nov 2026 | 05:55 pm |
