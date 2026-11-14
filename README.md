@@ -143,3 +143,4 @@
 | 141 | [Restore Finishing Order](./LeetCode/Easy/Restore%20Finishing%20Order) | [LeetCode](https://leetcode.com/problems/restore-finishing-order/) | Easy | 13 Nov 2026 | 06:23 pm |
 | 142 | [879A - Boryas Diagnosis](./Codeforces/basic/879A%20-%20Boryas%20Diagnosis) | [Codeforces](https://codeforces.com/problemset/problem/879/A) | basic | 14 Nov 2026 | 05:43 pm |
 | 143 | [1594C - Make Them Equal](./Codeforces/basic/1594C%20-%20Make%20Them%20Equal) | [Codeforces](https://codeforces.com/problemset/problem/1594/C) | basic | 14 Nov 2026 | 07:27 pm |
+| 144 | [Minimum Positive Sum Subarray ](./LeetCode/Easy/Minimum%20Positive%20Sum%20Subarray%20) | [LeetCode](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Easy | 14 Nov 2026 | 08:28 pm |
