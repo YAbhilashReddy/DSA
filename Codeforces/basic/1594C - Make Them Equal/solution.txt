@@ -1,0 +1,45 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    int n;
+    char c;cin>>n>>c;
+    string s;cin>>s;
+    
+    // checking if the s contains all same char or not:
+    bool maybesame = true;
+    for(char ch : s) {
+        if(ch != c) maybesame = false;
+    }
+    if(maybesame) {cout << "0\n" ; return;}
+    
+    //checking for one char differ : simple we return i 
+    for(int i = 1 ; i <= n ; i++) {
+        bool check = true;
+        for(int j = i ; j <= n ; j += i) {
+            if(s[j - 1] != c) {check = false; break;}
+        }
+        if(check) {
+            cout << 1 << '\n';
+            cout << i << '\n';
+            return ;
+        }
+    }
+    
+    cout << 2 << '\n';
+    cout << n << ' ' << n-1 << '\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    int t = 1;
+    cin>>t;
+    
+    while(t--) {
+        solve();
+    }
+    
+  return 0;
+}
