@@ -148,3 +148,4 @@
 | 146 | [519B - A and B and Compilation Errors](./Codeforces/basic/519B%20-%20A%20and%20B%20and%20Compilation%20Errors) | [Codeforces](https://codeforces.com/problemset/problem/519/B) | basic | 17 Nov 2026 | 02:10 pm |
 | 147 | [1213B - Bad Prices](./Codeforces/basic/1213B%20-%20Bad%20Prices) | [Codeforces](https://codeforces.com/problemset/problem/1213/B) | basic | 17 Nov 2026 | 06:37 pm |
 | 148 | [Delete Duplicate Emails](./LeetCode/Easy/Delete%20Duplicate%20Emails) | [LeetCode](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | 17 Nov 2026 | 06:50 pm |
+| 149 | [Game Play Analysis I](./LeetCode/Easy/Game%20Play%20Analysis%20I) | [LeetCode](https://leetcode.com/problems/game-play-analysis-i/) | Easy | 17 Nov 2026 | 07:15 pm |
