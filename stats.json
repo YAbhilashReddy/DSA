@@ -1,11 +1,11 @@
 {
-  "totalSolved": 147,
+  "totalSolved": 148,
   "currentStreak": 2,
   "maxStreak": 13,
   "lastSyncDate": "2026-11-17",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 23,
+    "easy": 24,
     "medium": 15,
     "hard": 1,
     "basic": 108
@@ -157,7 +157,8 @@
     "LeetCode_Minimum_Positive_Sum_Subarray_": true,
     "LeetCode_Duplicate_Emails": true,
     "Codeforces_519B_-_A_and_B_and_Compilation_Errors": true,
-    "Codeforces_1213B_-_Bad_Prices": true
+    "Codeforces_1213B_-_Bad_Prices": true,
+    "LeetCode_Delete_Duplicate_Emails": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -224,10 +225,11 @@
     "2026-11-13": 3,
     "2026-11-14": 3,
     "2026-11-16": 1,
-    "2026-11-17": 2
+    "2026-11-17": 3
   },
   "todayProblems": [
     "519B - A and B and Compilation Errors",
-    "1213B - Bad Prices"
+    "1213B - Bad Prices",
+    "Delete Duplicate Emails"
   ]
 }
