@@ -145,3 +145,4 @@
 | 143 | [1594C - Make Them Equal](./Codeforces/basic/1594C%20-%20Make%20Them%20Equal) | [Codeforces](https://codeforces.com/problemset/problem/1594/C) | basic | 14 Nov 2026 | 07:27 pm |
 | 144 | [Minimum Positive Sum Subarray ](./LeetCode/Easy/Minimum%20Positive%20Sum%20Subarray%20) | [LeetCode](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Easy | 14 Nov 2026 | 08:28 pm |
 | 145 | [Duplicate Emails](./LeetCode/Easy/Duplicate%20Emails) | [LeetCode](https://leetcode.com/problems/duplicate-emails/) | Easy | 16 Nov 2026 | 09:52 am |
+| 146 | [519B - A and B and Compilation Errors](./Codeforces/basic/519B%20-%20A%20and%20B%20and%20Compilation%20Errors) | [Codeforces](https://codeforces.com/problemset/problem/519/B) | basic | 17 Nov 2026 | 02:10 pm |
