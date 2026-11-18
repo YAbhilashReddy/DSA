@@ -1,0 +1,35 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    int n;cin>>n;
+    vector<string> arr;
+    unordered_map<char,int> freq;
+    for(int i = 0 ; i < n ; i++) {
+        string s;cin>>s;
+        arr.push_back(s);
+        for(char c:s) freq[c]++;
+    }
+    bool r = true;
+    char c = arr[0][0];
+    if(freq.size() != 2) r = false;
+    else {
+        int i = 0 , j = n-1;
+        for(int x = 0 ; x < n ; x++) {
+            string S = arr[i];
+            if(S[i] == S[j] && S[i] == c && S[j] == c) i++ , j--;
+            else {r = false ; break;}
+        }
+    }
+    if(r) cout << (freq[c] == (2 * n) - 1 ? "YES" : "NO") << '\n';
+    else cout << "NO\n";
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    solve();
+    
+  return 0;
+}
