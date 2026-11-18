@@ -151,3 +151,4 @@
 | 149 | [Game Play Analysis I](./LeetCode/Easy/Game%20Play%20Analysis%20I) | [LeetCode](https://leetcode.com/problems/game-play-analysis-i/) | Easy | 17 Nov 2026 | 07:15 pm |
 | 150 | [Big Countries](./LeetCode/Easy/Big%20Countries) | [LeetCode](https://leetcode.com/problems/big-countries/) | Easy | 17 Nov 2026 | 07:50 pm |
 | 151 | [A - Valera and X](./Codeforces/basic/A%20-%20Valera%20and%20X) | [Codeforces](https://codeforces.com/contest/404/problem/A) | basic | 18 Nov 2026 | 04:01 pm |
+| 152 | [Minimum Number of Changes to Make Binary String Beautiful](./LeetCode/Medium/Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful) | [LeetCode](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium | 18 Nov 2026 | 06:56 pm |

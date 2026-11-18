@@ -1,12 +1,12 @@
 {
-  "totalSolved": 151,
+  "totalSolved": 152,
   "currentStreak": 3,
   "maxStreak": 13,
   "lastSyncDate": "2026-11-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 15,
+    "medium": 16,
     "hard": 1,
     "basic": 109
   },
@@ -161,7 +161,8 @@
     "LeetCode_Delete_Duplicate_Emails": true,
     "LeetCode_Game_Play_Analysis_I": true,
     "LeetCode_Big_Countries": true,
-    "Codeforces_A_-_Valera_and_X": true
+    "Codeforces_A_-_Valera_and_X": true,
+    "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -229,9 +230,10 @@
     "2026-11-14": 3,
     "2026-11-16": 1,
     "2026-11-17": 5,
-    "2026-11-18": 1
+    "2026-11-18": 2
   },
   "todayProblems": [
-    "A - Valera and X"
+    "A - Valera and X",
+    "Minimum Number of Changes to Make Binary String Beautiful"
   ]
 }
