@@ -152,3 +152,4 @@
 | 150 | [Big Countries](./LeetCode/Easy/Big%20Countries) | [LeetCode](https://leetcode.com/problems/big-countries/) | Easy | 17 Nov 2026 | 07:50 pm |
 | 151 | [A - Valera and X](./Codeforces/basic/A%20-%20Valera%20and%20X) | [Codeforces](https://codeforces.com/contest/404/problem/A) | basic | 18 Nov 2026 | 04:01 pm |
 | 152 | [Minimum Number of Changes to Make Binary String Beautiful](./LeetCode/Medium/Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful) | [LeetCode](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium | 18 Nov 2026 | 06:56 pm |
+| 153 | [Classes With at Least 5 Students](./LeetCode/Easy/Classes%20With%20at%20Least%205%20Students) | [LeetCode](https://leetcode.com/problems/classes-with-at-least-5-students/) | Easy | 18 Nov 2026 | 07:19 pm |
