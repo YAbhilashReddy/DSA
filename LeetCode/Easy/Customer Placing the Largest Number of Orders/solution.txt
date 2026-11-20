@@ -1,0 +1,6 @@
+import pandas as pd
+
+def largest_orders(orders: pd.DataFrame) -> pd.DataFrame:
+    res = orders.groupby('customer_number')['order_number'].count()
+    customer = res.idxmax()
+    return pd.DataFrame({'customer_number' : [customer]})

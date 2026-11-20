@@ -154,3 +154,4 @@
 | 152 | [Minimum Number of Changes to Make Binary String Beautiful](./LeetCode/Medium/Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful) | [LeetCode](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium | 18 Nov 2026 | 06:56 pm |
 | 153 | [Classes With at Least 5 Students](./LeetCode/Easy/Classes%20With%20at%20Least%205%20Students) | [LeetCode](https://leetcode.com/problems/classes-with-at-least-5-students/) | Easy | 18 Nov 2026 | 07:19 pm |
 | 154 | [550A - Two Substrings](./Codeforces/basic/550A%20-%20Two%20Substrings) | [Codeforces](https://codeforces.com/problemset/problem/550/A) | basic | 20 Nov 2026 | 12:00 pm |
+| 155 | [Customer Placing the Largest Number of Orders](./LeetCode/Easy/Customer%20Placing%20the%20Largest%20Number%20of%20Orders) | [LeetCode](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy | 20 Nov 2026 | 12:12 pm |

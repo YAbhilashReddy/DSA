@@ -1,11 +1,11 @@
 {
-  "totalSolved": 154,
+  "totalSolved": 155,
   "currentStreak": 1,
   "maxStreak": 13,
   "lastSyncDate": "2026-11-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 27,
+    "easy": 28,
     "medium": 16,
     "hard": 1,
     "basic": 110
@@ -164,7 +164,8 @@
     "Codeforces_A_-_Valera_and_X": true,
     "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true,
     "LeetCode_Classes_With_at_Least_5_Students": true,
-    "Codeforces_550A_-_Two_Substrings": true
+    "Codeforces_550A_-_Two_Substrings": true,
+    "LeetCode_Customer_Placing_the_Largest_Number_of_Orders": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -233,9 +234,10 @@
     "2026-11-16": 1,
     "2026-11-17": 5,
     "2026-11-18": 3,
-    "2026-11-20": 1
+    "2026-11-20": 2
   },
   "todayProblems": [
-    "550A - Two Substrings"
+    "550A - Two Substrings",
+    "Customer Placing the Largest Number of Orders"
   ]
 }
