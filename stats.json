@@ -1,14 +1,14 @@
 {
-  "totalSolved": 153,
-  "currentStreak": 3,
+  "totalSolved": 154,
+  "currentStreak": 1,
   "maxStreak": 13,
-  "lastSyncDate": "2026-11-18",
-  "todayCount": 3,
+  "lastSyncDate": "2026-11-20",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 27,
     "medium": 16,
     "hard": 1,
-    "basic": 109
+    "basic": 110
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -163,7 +163,8 @@
     "LeetCode_Big_Countries": true,
     "Codeforces_A_-_Valera_and_X": true,
     "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true,
-    "LeetCode_Classes_With_at_Least_5_Students": true
+    "LeetCode_Classes_With_at_Least_5_Students": true,
+    "Codeforces_550A_-_Two_Substrings": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -231,11 +232,10 @@
     "2026-11-14": 3,
     "2026-11-16": 1,
     "2026-11-17": 5,
-    "2026-11-18": 3
+    "2026-11-18": 3,
+    "2026-11-20": 1
   },
   "todayProblems": [
-    "A - Valera and X",
-    "Minimum Number of Changes to Make Binary String Beautiful",
-    "Classes With at Least 5 Students"
+    "550A - Two Substrings"
   ]
 }
