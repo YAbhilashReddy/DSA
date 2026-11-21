@@ -157,3 +157,4 @@
 | 155 | [Customer Placing the Largest Number of Orders](./LeetCode/Easy/Customer%20Placing%20the%20Largest%20Number%20of%20Orders) | [LeetCode](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy | 20 Nov 2026 | 12:12 pm |
 | 156 | [D - Letters Down](./Codeforces/basic/D%20-%20Letters%20Down) | [Codeforces](https://codeforces.com/contest/2290/problem/D) | basic | 21 Nov 2026 | 09:33 am |
 | 157 | [21A - Jabber ID](./Codeforces/basic/21A%20-%20Jabber%20ID) | [Codeforces](https://codeforces.com/problemset/problem/21/A) | basic | 21 Nov 2026 | 11:20 am |
+| 158 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 21 Nov 2026 | 11:34 am |
