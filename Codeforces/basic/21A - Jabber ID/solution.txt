@@ -1,0 +1,57 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+bool valid(string s , int mn , int mx) {
+    if(s.length() < mn || s.length() > mx) return false;
+    for(char c : s) {
+        if(!isalnum(c) && c != '_') return false;
+    }
+    return true;
+}
+
+void solve(){
+    string s;cin>>s;
+    
+    int atCount = 0 , slashCount = 0;
+    for(char c:s) atCount += (c == '@') , slashCount += (c == '/');
+    
+    if(atCount != 1 && slashCount > 1) { cout << "NO\n" ; return ; }
+    
+    int at = s.find('@') , slash = s.find('/');
+    if(slash != -1 && slash < at) { cout << "NO\n" ; return ; }
+    
+    string userName , hostName , resource ;
+    if(slash == -1) userName = s.substr(0 , at) , hostName = s.substr(at + 1);
+    else userName = s.substr(0 , at) , hostName = s.substr(at + 1 , slash - at - 1) , resource = s.substr(slash + 1);
+    
+    //USERNAME
+    if(!valid(userName , 1 , 16)) {cout << "NO\n" ; return ;}
+    
+    //HOSTNAME 
+    if(hostName.length() < 1 || hostName.length() > 32) {cout << "NO" ; return ;}
+    string x = "";
+    for(char c : hostName) {
+        if(c == '.') {
+            if(!valid(x , 1 , 16)) {cout << "NO" ; return ;}
+            x = "";
+        } else x.push_back(c);
+    }
+    //checking final word of hostname
+    if(!valid(x , 1 , 16)) {cout << "NO" ; return ;}
+    
+    //RESOURCE 
+    if(slash != -1) {
+        if(!valid(resource , 1 , 16)) {cout << "NO" ; return ;}
+    }
+    
+    cout << "YES\n";
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    solve();
+    
+  return 0;
+}

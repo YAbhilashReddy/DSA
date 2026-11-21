@@ -1,14 +1,14 @@
 {
-  "totalSolved": 156,
+  "totalSolved": 157,
   "currentStreak": 2,
   "maxStreak": 13,
   "lastSyncDate": "2026-11-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 28,
     "medium": 16,
     "hard": 1,
-    "basic": 111
+    "basic": 112
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -166,7 +166,8 @@
     "LeetCode_Classes_With_at_Least_5_Students": true,
     "Codeforces_550A_-_Two_Substrings": true,
     "LeetCode_Customer_Placing_the_Largest_Number_of_Orders": true,
-    "Codeforces_D_-_Letters_Down": true
+    "Codeforces_D_-_Letters_Down": true,
+    "Codeforces_21A_-_Jabber_ID": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -236,9 +237,10 @@
     "2026-11-17": 5,
     "2026-11-18": 3,
     "2026-11-20": 2,
-    "2026-11-21": 1
+    "2026-11-21": 2
   },
   "todayProblems": [
-    "D - Letters Down"
+    "D - Letters Down",
+    "21A - Jabber ID"
   ]
 }
