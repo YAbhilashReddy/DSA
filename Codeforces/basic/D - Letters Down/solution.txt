@@ -1,0 +1,38 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	int t ; cin >> t ;
+	while(t--){
+	    int n ; cin >> n ;
+	    string s ; cin >> s ;
+	    unordered_map<char, int> um ;
+	    vector<pair<char, char>> v ;
+	    int count = 0 ;
+	    int i = 0, j = n - 1 ;
+	    while(i < j){
+	        if(s[i] > s[j]) v.push_back({s[i], s[j]}) ;
+	        else v.push_back({s[j], s[i]}) ;
+	        i++ ; j-- ;
+	    }
+	    sort(v.begin(), v.end(), greater<pair<char, char>>()) ;
+	    for(auto &[c1, c2] : v){
+	       while(um[c1]){
+	           char c = c1 - um[c1] ; 
+	           c1 = c ;
+	       }
+	       while(um[c2]){
+	           char c = c2 - um[c2] ; 
+	           c2 = c ;
+	       }
+	       while(c1 != c2){
+	           char c = c1 - 1 ;
+	           um[c1]+=1 ;
+	           c1 = c ;
+	           count+=1 ;
+	       }
+	    }
+	    cout << count << endl ;
+	}
+
+}
