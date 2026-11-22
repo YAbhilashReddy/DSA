@@ -1,0 +1,21 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+//There will be at most (r + g + b) / 3 tables we can decorate :
+//sample input (0 , 1 , 100) for why we only decorate small + middle no of tables :
+
+void solve(){
+    long long r,g,b;cin>>r>>g>>b;
+    long long total = r + g + b;
+    long long smallest = min({r,g,b}) , biggest = max({r,g,b}) , middle = total - smallest - biggest;
+    cout << (long long) min(total / 3 , smallest + middle) << '\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    solve();
+    
+  return 0;
+}

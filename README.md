@@ -158,3 +158,4 @@
 | 156 | [D - Letters Down](./Codeforces/basic/D%20-%20Letters%20Down) | [Codeforces](https://codeforces.com/contest/2290/problem/D) | basic | 21 Nov 2026 | 09:33 am |
 | 157 | [21A - Jabber ID](./Codeforces/basic/21A%20-%20Jabber%20ID) | [Codeforces](https://codeforces.com/problemset/problem/21/A) | basic | 21 Nov 2026 | 11:20 am |
 | 158 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 21 Nov 2026 | 11:34 am |
+| 159 | [478C - Table Decorations](./Codeforces/basic/478C%20-%20Table%20Decorations) | [Codeforces](https://codeforces.com/problemset/problem/478/C) | basic | 22 Nov 2026 | 10:39 am |
