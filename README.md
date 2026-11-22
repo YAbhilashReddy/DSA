@@ -159,3 +159,4 @@
 | 157 | [21A - Jabber ID](./Codeforces/basic/21A%20-%20Jabber%20ID) | [Codeforces](https://codeforces.com/problemset/problem/21/A) | basic | 21 Nov 2026 | 11:20 am |
 | 158 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 21 Nov 2026 | 11:34 am |
 | 159 | [478C - Table Decorations](./Codeforces/basic/478C%20-%20Table%20Decorations) | [Codeforces](https://codeforces.com/problemset/problem/478/C) | basic | 22 Nov 2026 | 10:39 am |
+| 160 | [Check if All A's Appears Before All B's](./LeetCode/Easy/Check%20if%20All%20A's%20Appears%20Before%20All%20B's) | [LeetCode](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy | 22 Nov 2026 | 10:57 am |
