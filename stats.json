@@ -1,14 +1,14 @@
 {
-  "totalSolved": 163,
+  "totalSolved": 164,
   "currentStreak": 4,
   "maxStreak": 13,
   "lastSyncDate": "2026-11-23",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 30,
     "medium": 16,
     "hard": 1,
-    "basic": 116
+    "basic": 117
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -173,7 +173,8 @@
     "LeetCode_Check_if_All_A's_Appears_Before_All_B's": true,
     "Codeforces_237A_-_Free_Cash": true,
     "Codeforces_165A_-_Supercentral_Point": true,
-    "Codeforces_1300B_-_Assigning_to_Classes": true
+    "Codeforces_1300B_-_Assigning_to_Classes": true,
+    "Codeforces_205A_-_Little_Elephant_and_Rozdil": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -245,11 +246,12 @@
     "2026-11-20": 2,
     "2026-11-21": 3,
     "2026-11-22": 2,
-    "2026-11-23": 3
+    "2026-11-23": 4
   },
   "todayProblems": [
     "237A - Free Cash",
     "165A - Supercentral Point",
-    "1300B - Assigning to Classes"
+    "1300B - Assigning to Classes",
+    "205A - Little Elephant and Rozdil"
   ]
 }
