@@ -160,3 +160,4 @@
 | 158 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 21 Nov 2026 | 11:34 am |
 | 159 | [478C - Table Decorations](./Codeforces/basic/478C%20-%20Table%20Decorations) | [Codeforces](https://codeforces.com/problemset/problem/478/C) | basic | 22 Nov 2026 | 10:39 am |
 | 160 | [Check if All A's Appears Before All B's](./LeetCode/Easy/Check%20if%20All%20A's%20Appears%20Before%20All%20B's) | [LeetCode](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy | 22 Nov 2026 | 10:57 am |
+| 161 | [237A - Free Cash](./Codeforces/basic/237A%20-%20Free%20Cash) | [Codeforces](https://codeforces.com/problemset/problem/237/A) | basic | 23 Nov 2026 | 12:05 pm |

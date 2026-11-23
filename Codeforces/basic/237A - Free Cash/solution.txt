@@ -1,0 +1,24 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    unordered_map<int,int> freq;
+    int n;cin>>n;
+    for(int i = 0 ; i < n ; i++) {
+        int h,m;cin>>h>>m;
+        int total = h * 60 + m;
+        freq[total]++;
+    }
+    int counter = 1;
+    for(auto[k,v] : freq) counter = max(counter , v);
+    cout << counter << '\n'; 
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    solve();
+    
+  return 0;
+}
