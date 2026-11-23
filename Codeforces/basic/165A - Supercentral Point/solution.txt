@@ -1,0 +1,32 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    int n;cin>>n;
+    vector<pair<int,int>> pa;
+    for(int i = 0 ; i < n ; i++) {
+        int a,b;cin>>a>>b;
+        pa.push_back({a,b});
+    }
+    int c = 0;
+    for(auto [k,v]: pa) {
+        bool r = false , l = false , u = false , d = false;
+        for(auto [x,y] : pa) {
+            if(k > x && v == y) r = true;
+            if(k < x && v == y) l = true;
+            if(k == x && v < y) d = true;
+            if(k == x && v > y) u = true;
+        }
+        c += (r && l && u && d);
+    }
+    cout << c << '\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    solve();
+    
+  return 0;
+}
