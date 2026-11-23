@@ -162,3 +162,4 @@
 | 160 | [Check if All A's Appears Before All B's](./LeetCode/Easy/Check%20if%20All%20A's%20Appears%20Before%20All%20B's) | [LeetCode](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy | 22 Nov 2026 | 10:57 am |
 | 161 | [237A - Free Cash](./Codeforces/basic/237A%20-%20Free%20Cash) | [Codeforces](https://codeforces.com/problemset/problem/237/A) | basic | 23 Nov 2026 | 12:05 pm |
 | 162 | [165A - Supercentral Point](./Codeforces/basic/165A%20-%20Supercentral%20Point) | [Codeforces](https://codeforces.com/problemset/problem/165/A) | basic | 23 Nov 2026 | 02:02 pm |
+| 163 | [1300B - Assigning to Classes](./Codeforces/basic/1300B%20-%20Assigning%20to%20Classes) | [Codeforces](https://codeforces.com/problemset/problem/1300/B) | basic | 23 Nov 2026 | 02:04 pm |
