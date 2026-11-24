@@ -164,3 +164,4 @@
 | 162 | [165A - Supercentral Point](./Codeforces/basic/165A%20-%20Supercentral%20Point) | [Codeforces](https://codeforces.com/problemset/problem/165/A) | basic | 23 Nov 2026 | 02:02 pm |
 | 163 | [1300B - Assigning to Classes](./Codeforces/basic/1300B%20-%20Assigning%20to%20Classes) | [Codeforces](https://codeforces.com/problemset/problem/1300/B) | basic | 23 Nov 2026 | 02:04 pm |
 | 164 | [205A - Little Elephant and Rozdil](./Codeforces/basic/205A%20-%20Little%20Elephant%20and%20Rozdil) | [Codeforces](https://codeforces.com/problemset/problem/205/A) | basic | 23 Nov 2026 | 04:56 pm |
+| 165 | [A - Little Elephant and Rozdil](./Codeforces/basic/A%20-%20Little%20Elephant%20and%20Rozdil) | [Codeforces](https://codeforces.com/contest/205/problem/A) | basic | 24 Nov 2026 | 11:30 am |

@@ -1,0 +1,15 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+  int n; cin>>n;
+  vector<pair<int,int>>vp(n);
+  for(int i=0;i<n;i++){
+      int x; cin>>x;
+      vp[i] = {x,i+1};
+  }
+  sort(vp.begin(),vp.end());
+  if(vp[0].first == vp[1].first)cout<<"Still Rozdil";
+  else cout<<vp[0].second;
+  return 0;
+}
