@@ -1,14 +1,14 @@
 {
-  "totalSolved": 165,
+  "totalSolved": 166,
   "currentStreak": 5,
   "maxStreak": 13,
   "lastSyncDate": "2026-11-24",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 30,
     "medium": 16,
     "hard": 1,
-    "basic": 118
+    "basic": 119
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -175,7 +175,8 @@
     "Codeforces_165A_-_Supercentral_Point": true,
     "Codeforces_1300B_-_Assigning_to_Classes": true,
     "Codeforces_205A_-_Little_Elephant_and_Rozdil": true,
-    "Codeforces_A_-_Little_Elephant_and_Rozdil": true
+    "Codeforces_A_-_Little_Elephant_and_Rozdil": true,
+    "Codeforces_A_-_Free_Cash": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -248,9 +249,10 @@
     "2026-11-21": 3,
     "2026-11-22": 2,
     "2026-11-23": 4,
-    "2026-11-24": 1
+    "2026-11-24": 2
   },
   "todayProblems": [
-    "A - Little Elephant and Rozdil"
+    "A - Little Elephant and Rozdil",
+    "A - Free Cash"
   ]
 }

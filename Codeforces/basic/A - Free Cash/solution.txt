@@ -1,0 +1,25 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+  int n; cin>>n;
+  int prev_a, prev_b;
+  cin>>prev_a>>prev_b;
+  int count=1, ans = count;
+  int a,b;
+  n--;
+  while(n--){
+      int a,b; cin>>a>>b;
+      if(a==prev_a && b==prev_b){
+          count++;
+          ans = max(ans,count);
+      }else{
+          count=1;
+          prev_a=a;
+          prev_b=b;
+      }
+    //   cout<<ans<<"\n";
+  }
+  cout<<ans;
+  return 0;
+}
