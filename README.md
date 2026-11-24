@@ -168,3 +168,4 @@
 | 166 | [A - Free Cash](./Codeforces/basic/A%20-%20Free%20Cash) | [Codeforces](https://codeforces.com/contest/237/problem/A) | basic | 24 Nov 2026 | 11:30 am |
 | 167 | [1704B - Luke is a Foodie](./Codeforces/basic/1704B%20-%20Luke%20is%20a%20Foodie) | [Codeforces](https://codeforces.com/problemset/problem/1704/B) | basic | 24 Nov 2026 | 12:08 pm |
 | 168 | [1411B - Fair Numbers](./Codeforces/basic/1411B%20-%20Fair%20Numbers) | [Codeforces](https://codeforces.com/problemset/problem/1411/B) | basic | 24 Nov 2026 | 12:29 pm |
+| 169 | [913A - Modular Exponentiation](./Codeforces/basic/913A%20-%20Modular%20Exponentiation) | [Codeforces](https://codeforces.com/problemset/problem/913/A) | basic | 24 Nov 2026 | 01:28 pm |

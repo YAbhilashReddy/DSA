@@ -1,14 +1,14 @@
 {
-  "totalSolved": 168,
+  "totalSolved": 169,
   "currentStreak": 5,
   "maxStreak": 13,
   "lastSyncDate": "2026-11-24",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 30,
     "medium": 16,
     "hard": 1,
-    "basic": 121
+    "basic": 122
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -178,7 +178,8 @@
     "Codeforces_A_-_Little_Elephant_and_Rozdil": true,
     "Codeforces_A_-_Free_Cash": true,
     "Codeforces_1704B_-_Luke_is_a_Foodie": true,
-    "Codeforces_1411B_-_Fair_Numbers": true
+    "Codeforces_1411B_-_Fair_Numbers": true,
+    "Codeforces_913A_-_Modular_Exponentiation": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -251,12 +252,13 @@
     "2026-11-21": 3,
     "2026-11-22": 2,
     "2026-11-23": 4,
-    "2026-11-24": 4
+    "2026-11-24": 5
   },
   "todayProblems": [
     "A - Little Elephant and Rozdil",
     "A - Free Cash",
     "1704B - Luke is a Foodie",
-    "1411B - Fair Numbers"
+    "1411B - Fair Numbers",
+    "913A - Modular Exponentiation"
   ]
 }
