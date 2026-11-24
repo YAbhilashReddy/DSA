@@ -1,0 +1,34 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    int n,x;cin>>n>>x;
+    vector<int> arr(n);
+    for(int i = 0 ; i < n ; i++) cin>>arr[i];
+    int l = 0 , r = 0 , count = 0;
+    for(int i = 0 ; i < n ; i++) {
+        int a = arr[i] - x , b = arr[i] + x;
+        if(!i) {
+            l = a;
+            r = b;
+        } else {
+            if(max(l,a) <= min(r,b)) l = max(l,a) , r = min(r,b);
+            else l = a , r = b , count++;
+        }
+    }
+    cout << count << '\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    int t = 1;
+    cin>>t;
+    
+    while(t--) {
+        solve();
+    }
+    
+  return 0;
+}
