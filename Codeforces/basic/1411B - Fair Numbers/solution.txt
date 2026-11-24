@@ -1,0 +1,32 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+bool check(long long n) {
+    long long temp = n;
+    while(n) {
+        int last = n % 10;
+        if(last && temp % last != 0) return false;
+        n /= 10;
+    }
+    return true;
+}
+
+void solve(){
+    long long n;cin>>n;
+    while(!check(n)) n++;
+    cout << n << '\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    int t = 1;
+    cin>>t;
+    
+    while(t--) {
+        solve();
+    }
+    
+  return 0;
+}
