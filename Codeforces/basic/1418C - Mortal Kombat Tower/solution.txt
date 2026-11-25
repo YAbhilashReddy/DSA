@@ -1,0 +1,36 @@
+import sys
+sys.setrecursionlimit(10**6)
+
+t = int(input())
+
+for _ in range(t):
+  n = int(input())
+  a = list(map(int,input().split()))
+
+  memo = {}
+
+  def f(i,me,t):
+    if i >= n:
+      return 0
+    if t >= 2:
+      return float('inf')
+
+    if (i,me,t) in memo:
+      return memo[(i,me,t)]
+
+    ans = 0 
+    if me == -1 and a[i] == 1:
+      ans += 1
+
+    x = min(f(i+1,me,t+1),f(i+1,-me,0))
+    memo[(i,me,t)] = x + ans 
+    return x + ans
+
+  
+  ans = f(0,-1,0)
+  print(ans) 
+
+    
+    
+      
+        

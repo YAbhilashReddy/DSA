@@ -170,3 +170,4 @@
 | 168 | [1411B - Fair Numbers](./Codeforces/basic/1411B%20-%20Fair%20Numbers) | [Codeforces](https://codeforces.com/problemset/problem/1411/B) | basic | 24 Nov 2026 | 12:29 pm |
 | 169 | [913A - Modular Exponentiation](./Codeforces/basic/913A%20-%20Modular%20Exponentiation) | [Codeforces](https://codeforces.com/problemset/problem/913/A) | basic | 24 Nov 2026 | 01:28 pm |
 | 170 | [B - Fair Numbers](./Codeforces/basic/B%20-%20Fair%20Numbers) | [Codeforces](https://codeforces.com/contest/1411/problem/B) | basic | 25 Nov 2026 | 11:07 am |
+| 171 | [1418C - Mortal Kombat Tower](./Codeforces/basic/1418C%20-%20Mortal%20Kombat%20Tower) | [Codeforces](https://codeforces.com/problemset/problem/1418/C) | basic | 25 Nov 2026 | 06:37 pm |
