@@ -1,11 +1,11 @@
 {
-  "totalSolved": 180,
+  "totalSolved": 181,
   "currentStreak": 6,
   "maxStreak": 13,
   "lastSyncDate": "2026-11-25",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
-    "easy": 30,
+    "easy": 31,
     "medium": 16,
     "hard": 1,
     "basic": 133
@@ -190,7 +190,8 @@
     "Codeforces_1924A_-_Did_We_Get_Everything_Covered": true,
     "Codeforces_1720C_-_Corners": true,
     "Codeforces_462A_-_Appleman_and_Easy_Task": true,
-    "Codeforces_1685A_-_Circular_Local_MiniMax": true
+    "Codeforces_1685A_-_Circular_Local_MiniMax": true,
+    "LeetCode_Assign_Umbrella_on_Rainy_Days": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -264,7 +265,7 @@
     "2026-11-22": 2,
     "2026-11-23": 4,
     "2026-11-24": 5,
-    "2026-11-25": 11
+    "2026-11-25": 12
   },
   "todayProblems": [
     "B - Fair Numbers",
@@ -277,6 +278,7 @@
     "1924A - Did We Get Everything Covered",
     "1720C - Corners",
     "462A - Appleman and Easy Task",
-    "1685A - Circular Local MiniMax"
+    "1685A - Circular Local MiniMax",
+    "Assign Umbrella on Rainy Days"
   ]
 }

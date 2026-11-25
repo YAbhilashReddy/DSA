@@ -180,3 +180,4 @@
 | 178 | [1720C - Corners](./Codeforces/basic/1720C%20-%20Corners) | [Codeforces](https://codeforces.com/problemset/problem/1720/C) | basic | 25 Nov 2026 | 06:38 pm |
 | 179 | [462A - Appleman and Easy Task](./Codeforces/basic/462A%20-%20Appleman%20and%20Easy%20Task) | [Codeforces](https://codeforces.com/problemset/problem/462/A) | basic | 25 Nov 2026 | 06:38 pm |
 | 180 | [1685A - Circular Local MiniMax](./Codeforces/basic/1685A%20-%20Circular%20Local%20MiniMax) | [Codeforces](https://codeforces.com/problemset/problem/1685/A) | basic | 25 Nov 2026 | 07:48 pm |
+| 181 | [Assign Umbrella on Rainy Days](./LeetCode/Easy/Assign%20Umbrella%20on%20Rainy%20Days) | [LeetCode](https://leetcode.com/problems/assign-umbrella-on-rainy-days/) | Easy | 25 Nov 2026 | 11:10 pm |
