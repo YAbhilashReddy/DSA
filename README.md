@@ -175,3 +175,4 @@
 | 173 | [1083E - The Fair Nut and Rectangles](./Codeforces/basic/1083E%20-%20The%20Fair%20Nut%20and%20Rectangles) | [Codeforces](https://codeforces.com/problemset/problem/1083/E) | basic | 25 Nov 2026 | 06:37 pm |
 | 174 | [2246B - ezraft and Array](./Codeforces/basic/2246B%20-%20ezraft%20and%20Array) | [Codeforces](https://codeforces.com/problemset/problem/2246/B) | basic | 25 Nov 2026 | 06:37 pm |
 | 175 | [2209B - Array](./Codeforces/basic/2209B%20-%20Array) | [Codeforces](https://codeforces.com/problemset/problem/2209/B) | basic | 25 Nov 2026 | 06:37 pm |
+| 176 | [2289C - Problem from Ust-Katav](./Codeforces/basic/2289C%20-%20Problem%20from%20Ust-Katav) | [Codeforces](https://codeforces.com/problemset/problem/2289/C) | basic | 25 Nov 2026 | 06:37 pm |
