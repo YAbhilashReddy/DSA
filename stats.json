@@ -1,14 +1,14 @@
 {
-  "totalSolved": 176,
+  "totalSolved": 177,
   "currentStreak": 6,
   "maxStreak": 13,
   "lastSyncDate": "2026-11-25",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 30,
     "medium": 16,
     "hard": 1,
-    "basic": 129
+    "basic": 130
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -186,7 +186,8 @@
     "Codeforces_1083E_-_The_Fair_Nut_and_Rectangles": true,
     "Codeforces_2246B_-_ezraft_and_Array": true,
     "Codeforces_2209B_-_Array": true,
-    "Codeforces_2289C_-_Problem_from_Ust-Katav": true
+    "Codeforces_2289C_-_Problem_from_Ust-Katav": true,
+    "Codeforces_1924A_-_Did_We_Get_Everything_Covered": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -260,7 +261,7 @@
     "2026-11-22": 2,
     "2026-11-23": 4,
     "2026-11-24": 5,
-    "2026-11-25": 7
+    "2026-11-25": 8
   },
   "todayProblems": [
     "B - Fair Numbers",
@@ -269,6 +270,7 @@
     "1083E - The Fair Nut and Rectangles",
     "2246B - ezraft and Array",
     "2209B - Array",
-    "2289C - Problem from Ust-Katav"
+    "2289C - Problem from Ust-Katav",
+    "1924A - Did We Get Everything Covered"
   ]
 }

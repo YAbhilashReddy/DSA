@@ -176,3 +176,4 @@
 | 174 | [2246B - ezraft and Array](./Codeforces/basic/2246B%20-%20ezraft%20and%20Array) | [Codeforces](https://codeforces.com/problemset/problem/2246/B) | basic | 25 Nov 2026 | 06:37 pm |
 | 175 | [2209B - Array](./Codeforces/basic/2209B%20-%20Array) | [Codeforces](https://codeforces.com/problemset/problem/2209/B) | basic | 25 Nov 2026 | 06:37 pm |
 | 176 | [2289C - Problem from Ust-Katav](./Codeforces/basic/2289C%20-%20Problem%20from%20Ust-Katav) | [Codeforces](https://codeforces.com/problemset/problem/2289/C) | basic | 25 Nov 2026 | 06:37 pm |
+| 177 | [1924A - Did We Get Everything Covered](./Codeforces/basic/1924A%20-%20Did%20We%20Get%20Everything%20Covered) | [Codeforces](https://codeforces.com/problemset/problem/1924/A) | basic | 25 Nov 2026 | 06:38 pm |

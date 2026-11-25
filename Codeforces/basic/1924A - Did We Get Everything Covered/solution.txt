@@ -1,0 +1,54 @@
+#include <bits/stdc++.h>
+using namespace std;
+const long long Maxn=2e5+10;
+const int Mod=998244353;
+const unsigned long long INF = 1e18;
+const double pi=acos(-1.0);
+typedef long long ll;
+void solve(){
+	int n,k,m;
+	cin >> n >> k >> m;
+	string s;
+	cin >> s;
+	int num=0,p=-1;
+	int l=0;
+	string ans;
+	while(l<m){
+		map<int,int>mp;
+		while(l<m&&mp.size()!=k){
+			int o=s[l++]-'a';
+			mp[o]++;
+		}
+		if(mp.size()==k){
+			num++;
+			ans.push_back(s[l-1]);
+		}else{
+			for(int i=0;i<k;i++){
+				if(mp[i]==0){
+					p=i;
+					break;
+				}	
+			}
+		}
+	} 
+	if(num>=n){
+		cout << "YES\n";
+	}else{
+		cout << "NO\n";
+		if(p==-1){
+			p=0;
+		}
+		ans.append(n-num,char('a'+p));
+		cout << ans << '\n';
+	}
+}
+int main(){
+    ios::sync_with_stdio(false);
+    cin.tie(0),cout.tie(0);
+	int t=1;
+	cin >> t;
+	while(t--){
+		solve();
+	}
+    return 0;
+}
