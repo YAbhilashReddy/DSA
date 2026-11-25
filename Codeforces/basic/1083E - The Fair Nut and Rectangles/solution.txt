@@ -1,0 +1,72 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+using ll = long long;
+const int N = 1e6+5;
+const ll INF = 1e9+7;
+vector<ll> masky;
+
+struct L {
+    ll m, c;
+    ll v(ll x) {return m*x + c;}
+
+} d[4*N];
+
+void add(L nl, int v=1, int l=1, int r=N) {
+    int mid=(r-l)/2+l;
+
+    ll v1=masky[mid], v2=masky[l];
+    bool bm=nl.v(v1)>d[v].v(v1);
+    bool bl=nl.v(v2)>d[v].v(v2);
+    if (bm) swap(nl, d[v]);
+
+    if (l==r) return;
+    if (bm!=bl) add(nl, v*2, l, mid);
+    else add(nl, v*2+1, mid+1, r);
+}
+ll get(int y, int v=1, int l=1, int r=N) {
+    int mid=(r-l)/2+l;
+    ll cur=d[v].v(masky[y]);
+
+    if (l==r) return cur;
+    if (y<=mid) return max(cur, get(y, v*2, l, mid));
+    return max(cur, get(y, v*2+1, mid+1, r));
+}
+int n;
+/*
+ * dp[i] = min(dp[j] + x[i]*y[i]-x[j]*y[i]-a[i])
+ * dp[i] = min(-x[j]*y[i] + dp[j]) + x[i]*y[i]-a[i]
+ *
+ *
+ *
+ */
+
+ll x[N], y[N], a[N];
+int main() {
+    cin.tie(0)->sync_with_stdio(0);
+    cin>> n;
+
+    vector<pair<int,int>> order;
+
+    for (int i=0; i<n; i++) cin>> x[i]>> y[i]>> a[i];
+    for (int i=0; i<n; i++) masky.push_back(y[i]), order.push_back({x[i], i});
+    
+    masky.push_back(-1);
+    for (int i=n; i<N; i++) masky.push_back(INF);
+
+    sort(masky.begin(), masky.end());
+    
+    sort(order.begin(), order.end()); 
+    L nl;
+
+    ll ans=-INF;
+    for (int j=0; j<n; j++) {
+        int i=order[j].second;
+        auto id=lower_bound(masky.begin(), masky.end(), y[i])-masky.begin();
+        ll val = get(id)+x[i]*y[i]-a[i];
+        nl = {-x[i], val};
+        ans=max(ans, val);
+        add(nl);
+    }
+    cout<< ans; 
+}
