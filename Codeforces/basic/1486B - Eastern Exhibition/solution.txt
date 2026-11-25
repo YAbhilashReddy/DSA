@@ -1,0 +1,82 @@
+// #ifdef __AVX2__
+// #pragma GCC target "avx2"
+// #endif
+// #pragma GCC optimize "O3"
+// #pragma GCC optimize "unroll-loops"
+ 
+// #include <bits/stdc++.h>
+#include <iostream>
+#include <cmath>
+#include <algorithm>
+#include <map>
+#include <unordered_map>
+#include <vector>
+#include <iomanip>
+#include <string>
+#include <queue>
+#include <set>
+#include <deque>
+#include <climits>
+using namespace std;
+#define pii pair<int,int>
+// #include <ext/pb_ds/assoc_container.hpp>
+// #include <ext/pb_ds/tree_policy.hpp>
+// using namespace __gnu_pbds;
+ 
+// #define ordered_set tree<pii, null_type,less<pii>, rb_tree_tag,tree_order_statistics_node_update>
+ 
+#define endl "\n"
+#define pb push_back
+#define int long long
+#define fi first
+#define se second
+#define vec vector 
+#define all(x) x.begin(),x.end()
+#define rall(x) x.rbegin(),x.rend()
+ 
+ 
+const int N = 3e5 + 5, M = 1e9 + 7, LG = 20;
+ 
+int n,m,A[N],pr[N],u,v;
+vec<int> D[N];
+ 
+int pw(int a , int b){
+    if (b==0) return 1;
+    int p = pw(a,b/2);
+    if (b&1) return ((p*p)%M * a)%M;
+    return (p*p)%M;
+}
+
+void solve(){
+    cin>>n;
+    
+    vec<int> x,y;
+
+    for (int i=0;i<n;i++){
+        cin>>u>>v;
+        x.pb(u);
+        y.pb(v);
+    }
+
+    if (n&1){
+        cout<<1<<endl;
+    }else{
+        sort(all(x));sort(all(y));
+
+        int ans=(x[n/2]-x[n/2 - 1]+1)*(y[n/2] - y[n/2 - 1]+1);
+        cout<<ans<<endl;
+    }
+}
+
+signed main(){
+    
+    // freopen("" , "r" , stdin);
+    // freopen("" , "w" , stdout);
+    // cout << setprecision(30);
+    ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+    int ts = 1;
+    cin >> ts;
+    while(ts--){
+        solve();
+    }
+}
