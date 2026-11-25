@@ -1,14 +1,14 @@
 {
-  "totalSolved": 179,
+  "totalSolved": 180,
   "currentStreak": 6,
   "maxStreak": 13,
   "lastSyncDate": "2026-11-25",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
     "easy": 30,
     "medium": 16,
     "hard": 1,
-    "basic": 132
+    "basic": 133
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -189,7 +189,8 @@
     "Codeforces_2289C_-_Problem_from_Ust-Katav": true,
     "Codeforces_1924A_-_Did_We_Get_Everything_Covered": true,
     "Codeforces_1720C_-_Corners": true,
-    "Codeforces_462A_-_Appleman_and_Easy_Task": true
+    "Codeforces_462A_-_Appleman_and_Easy_Task": true,
+    "Codeforces_1685A_-_Circular_Local_MiniMax": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -263,7 +264,7 @@
     "2026-11-22": 2,
     "2026-11-23": 4,
     "2026-11-24": 5,
-    "2026-11-25": 10
+    "2026-11-25": 11
   },
   "todayProblems": [
     "B - Fair Numbers",
@@ -275,6 +276,7 @@
     "2289C - Problem from Ust-Katav",
     "1924A - Did We Get Everything Covered",
     "1720C - Corners",
-    "462A - Appleman and Easy Task"
+    "462A - Appleman and Easy Task",
+    "1685A - Circular Local MiniMax"
   ]
 }
