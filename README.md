@@ -173,3 +173,4 @@
 | 171 | [1418C - Mortal Kombat Tower](./Codeforces/basic/1418C%20-%20Mortal%20Kombat%20Tower) | [Codeforces](https://codeforces.com/problemset/problem/1418/C) | basic | 25 Nov 2026 | 06:37 pm |
 | 172 | [1486B - Eastern Exhibition](./Codeforces/basic/1486B%20-%20Eastern%20Exhibition) | [Codeforces](https://codeforces.com/problemset/problem/1486/B) | basic | 25 Nov 2026 | 06:37 pm |
 | 173 | [1083E - The Fair Nut and Rectangles](./Codeforces/basic/1083E%20-%20The%20Fair%20Nut%20and%20Rectangles) | [Codeforces](https://codeforces.com/problemset/problem/1083/E) | basic | 25 Nov 2026 | 06:37 pm |
+| 174 | [2246B - ezraft and Array](./Codeforces/basic/2246B%20-%20ezraft%20and%20Array) | [Codeforces](https://codeforces.com/problemset/problem/2246/B) | basic | 25 Nov 2026 | 06:37 pm |
