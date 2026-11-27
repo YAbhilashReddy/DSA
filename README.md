@@ -184,3 +184,4 @@
 | 182 | [1731B - Kill Demodogs](./Codeforces/basic/1731B%20-%20Kill%20Demodogs) | [Codeforces](https://codeforces.com/problemset/problem/1731/B) | basic | 26 Nov 2026 | 10:17 pm |
 | 183 | [1821A - Matching](./Codeforces/basic/1821A%20-%20Matching) | [Codeforces](https://codeforces.com/problemset/problem/1821/A) | basic | 27 Nov 2026 | 06:23 pm |
 | 184 | [Minimum Number of Pushes to Type Word I](./LeetCode/Easy/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | 27 Nov 2026 | 07:47 pm |
+| 185 | [A - Picnic for Two](./Codeforces/basic/A%20-%20Picnic%20for%20Two) | [Codeforces](https://codeforces.com/contest/2292/problem/A) | basic | 27 Nov 2026 | 08:18 pm |

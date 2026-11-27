@@ -1,0 +1,36 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    int l,a,b;cin>>l>>a>>b;
+    int ta = a , tb = b;
+    unordered_set<int> A , B;
+    while(true) {
+        if(A.count(a % l)) break;
+        else A.insert(a % l) , a += ta;
+    }
+    while(true) {
+        if(B.count(b % l)) break;
+        else B.insert(b % l) , b += tb;
+    }
+    unordered_map<int,int>freq;
+    for(int i : A) freq[i]++;
+    for(int i : B) freq[i]++;
+    int c = 0;
+    for(auto [k,v] : freq) c += (v >= 2);
+    cout << c << '\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    int t = 1;
+    cin>>t;
+    
+    while(t--) {
+        solve();
+    }
+    
+  return 0;
+}
