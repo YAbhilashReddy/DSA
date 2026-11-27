@@ -1,14 +1,14 @@
 {
-  "totalSolved": 186,
+  "totalSolved": 187,
   "currentStreak": 8,
   "maxStreak": 13,
   "lastSyncDate": "2026-11-27",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 32,
     "medium": 16,
     "hard": 1,
-    "basic": 137
+    "basic": 138
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -196,7 +196,8 @@
     "Codeforces_1821A_-_Matching": true,
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_I": true,
     "Codeforces_A_-_Picnic_for_Two": true,
-    "Codeforces_B_-_Grapefruit_Juice": true
+    "Codeforces_B_-_Grapefruit_Juice": true,
+    "Codeforces_D_-_Unexpected_Precipitation": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -272,12 +273,13 @@
     "2026-11-24": 5,
     "2026-11-25": 12,
     "2026-11-26": 1,
-    "2026-11-27": 4
+    "2026-11-27": 5
   },
   "todayProblems": [
     "1821A - Matching",
     "Minimum Number of Pushes to Type Word I",
     "A - Picnic for Two",
-    "B - Grapefruit Juice"
+    "B - Grapefruit Juice",
+    "D - Unexpected Precipitation"
   ]
 }
