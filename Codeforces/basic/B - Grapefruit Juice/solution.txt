@@ -1,0 +1,33 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    long long n,k,p;cin>>n>>k>>p;
+    vector<long long> grapefruits(n);
+    for(int i = 0 ; i < n ; i++) cin>>grapefruits[i];
+    sort(grapefruits.begin() , grapefruits.end());
+    long long points = 0 , tempSum = 0;
+    for(int i = 0 ; i < n ; i++) {
+        tempSum += grapefruits[i];
+        if((i + 1) % k == 0) {
+            points += max(tempSum , p);
+            tempSum = 0;
+        }
+    }
+    points += tempSum;
+    cout << points << '\n';
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    int t = 1;
+    cin>>t;
+    
+    while(t--) {
+        solve();
+    }
+    
+  return 0;
+}

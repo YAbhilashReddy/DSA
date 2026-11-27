@@ -185,3 +185,4 @@
 | 183 | [1821A - Matching](./Codeforces/basic/1821A%20-%20Matching) | [Codeforces](https://codeforces.com/problemset/problem/1821/A) | basic | 27 Nov 2026 | 06:23 pm |
 | 184 | [Minimum Number of Pushes to Type Word I](./LeetCode/Easy/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | 27 Nov 2026 | 07:47 pm |
 | 185 | [A - Picnic for Two](./Codeforces/basic/A%20-%20Picnic%20for%20Two) | [Codeforces](https://codeforces.com/contest/2292/problem/A) | basic | 27 Nov 2026 | 08:18 pm |
+| 186 | [B - Grapefruit Juice](./Codeforces/basic/B%20-%20Grapefruit%20Juice) | [Codeforces](https://codeforces.com/contest/2292/problem/B) | basic | 27 Nov 2026 | 08:30 pm |
