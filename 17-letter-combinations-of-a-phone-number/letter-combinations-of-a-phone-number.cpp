@@ -69,6 +69,6 @@ public:
         else if(n == 2) return two(telephone[digits[0]] , telephone[digits[1]]);
         else if(n == 3) return three(telephone[digits[0]] , telephone[digits[1]] , telephone[digits[2]]);
         else return four(telephone[digits[0]] , telephone[digits[1]] , telephone[digits[2]] , telephone[digits[3]]);
-        return {""};
+        return {};
     }
 };
