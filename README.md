@@ -183,3 +183,4 @@
 | 181 | [Assign Umbrella on Rainy Days](./LeetCode/Easy/Assign%20Umbrella%20on%20Rainy%20Days) | [LeetCode](https://leetcode.com/problems/assign-umbrella-on-rainy-days/) | Easy | 25 Nov 2026 | 11:10 pm |
 | 182 | [1731B - Kill Demodogs](./Codeforces/basic/1731B%20-%20Kill%20Demodogs) | [Codeforces](https://codeforces.com/problemset/problem/1731/B) | basic | 26 Nov 2026 | 10:17 pm |
 | 183 | [1821A - Matching](./Codeforces/basic/1821A%20-%20Matching) | [Codeforces](https://codeforces.com/problemset/problem/1821/A) | basic | 27 Nov 2026 | 06:23 pm |
+| 184 | [Minimum Number of Pushes to Type Word I](./LeetCode/Easy/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | 27 Nov 2026 | 07:47 pm |
