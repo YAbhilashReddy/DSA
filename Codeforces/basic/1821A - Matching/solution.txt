@@ -1,0 +1,30 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    string s;cin>>s;
+    if(s[0] == '0') cout << 0 << '\n';
+    else {
+        int count = 1;
+        for(int i = 0 ; i < s.length() ; i++) {
+            char c = s[i];
+            if(!i && c == '?') count = 9;
+            else if(c == '?') count *= 10;
+        }
+        cout << count << '\n';
+    }
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false);  // Make cin/cout faster
+    cin.tie(NULL);                     // Don't unnecessarily flush cout
+    
+    int t = 1;
+    cin>>t;
+    
+    while(t--) {
+        solve();
+    }
+    
+  return 0;
+}

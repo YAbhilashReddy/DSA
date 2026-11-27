@@ -1,14 +1,14 @@
 {
-  "totalSolved": 182,
-  "currentStreak": 7,
+  "totalSolved": 183,
+  "currentStreak": 8,
   "maxStreak": 13,
-  "lastSyncDate": "2026-11-26",
+  "lastSyncDate": "2026-11-27",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 31,
     "medium": 16,
     "hard": 1,
-    "basic": 134
+    "basic": 135
   },
   "syncedProblems": {
     "LeetCode_Count_the_Digits_That_Divide_a_Number": true,
@@ -192,7 +192,8 @@
     "Codeforces_462A_-_Appleman_and_Easy_Task": true,
     "Codeforces_1685A_-_Circular_Local_MiniMax": true,
     "LeetCode_Assign_Umbrella_on_Rainy_Days": true,
-    "Codeforces_1731B_-_Kill_Demodogs": true
+    "Codeforces_1731B_-_Kill_Demodogs": true,
+    "Codeforces_1821A_-_Matching": true
   },
   "activityHistory": {
     "2026-08-10": 2,
@@ -267,9 +268,10 @@
     "2026-11-23": 4,
     "2026-11-24": 5,
     "2026-11-25": 12,
-    "2026-11-26": 1
+    "2026-11-26": 1,
+    "2026-11-27": 1
   },
   "todayProblems": [
-    "1731B - Kill Demodogs"
+    "1821A - Matching"
   ]
 }
